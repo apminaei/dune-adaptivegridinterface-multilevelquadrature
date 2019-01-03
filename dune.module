@@ -1,0 +1,10 @@
+################################
+# Dune module information file #
+################################
+
+#Name of the module
+Module: dune-howto-adaptive-grid-multilevel-quad
+Version: 1.0
+Maintainer: math.amir@gmail.com
+#depending on
+Depends: dune-common dune-geometry dune-localfunctions dune-uggrid dune-grid dune-istl dune-typetree dune-functions

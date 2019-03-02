@@ -111,3 +111,24 @@ Determining location of psurface failed:
 Include directory: 
 Library directory: 
 
+Determing location of GMP failed:
+Include directory: GMP_INCLUDE_DIR-NOTFOUND
+gmp library directory: GMP_LIB-NOTFOUND
+gmpx library directory: GMPXX_LIB-NOTFOUND
+
+Determing location of METIS failed:
+Include directory: 
+Library directory: 
+
+Determing location of ARPACK++ failed:
+Include directory: 
+Libraries to link against: 
+
+Determing location of METIS failed:
+Include directory: 
+Library directory: 
+
+Determining location of psurface failed:
+Include directory: 
+Library directory: 
+

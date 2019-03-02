@@ -132,6 +132,7 @@ Determining location of psurface failed:
 Include directory: 
 Library directory: 
 
+<<<<<<< HEAD
 Determing location of GMP failed:
 Include directory: GMP_INCLUDE_DIR-NOTFOUND
 gmp library directory: GMP_LIB-NOTFOUND
@@ -153,3 +154,5 @@ Determining location of psurface failed:
 Include directory: 
 Library directory: 
 
+=======
+>>>>>>> cad29a91d285fffc5b33b60d1d1fe6ffc3d39d0b

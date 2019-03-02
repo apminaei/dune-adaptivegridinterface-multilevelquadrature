@@ -1588,6 +1588,7 @@ Determining location of SuiteSparse succeeded:
 Include directory: /usr/include/suitesparse
 Library directory: /usr/lib/x86_64-linux-gnu/libldl.so;/usr/lib/x86_64-linux-gnu/libspqr.so;/usr/lib/x86_64-linux-gnu/libumfpack.so;/usr/lib/x86_64-linux-gnu/libcholmod.so;/usr/lib/x86_64-linux-gnu/libamd.so;/usr/lib/x86_64-linux-gnu/libcamd.so;/usr/lib/x86_64-linux-gnu/libcolamd.so;/usr/lib/x86_64-linux-gnu/libccolamd.so;/usr/lib/x86_64-linux-gnu/libsuitesparseconfig.so
 
+<<<<<<< HEAD
 Determining location of SuperLU >= 5.0 succeeded:
 Include directory: /usr/include/superlu
 Library directory: /usr/lib/x86_64-linux-gnu/libsuperlu.so
@@ -1599,3 +1600,5 @@ Determining location of SuiteSparse succeeded:
 Include directory: /usr/include/suitesparse
 Library directory: /usr/lib/x86_64-linux-gnu/libldl.so;/usr/lib/x86_64-linux-gnu/libspqr.so;/usr/lib/x86_64-linux-gnu/libumfpack.so;/usr/lib/x86_64-linux-gnu/libcholmod.so;/usr/lib/x86_64-linux-gnu/libamd.so;/usr/lib/x86_64-linux-gnu/libcamd.so;/usr/lib/x86_64-linux-gnu/libcolamd.so;/usr/lib/x86_64-linux-gnu/libccolamd.so;/usr/lib/x86_64-linux-gnu/libsuitesparseconfig.so
 
+=======
+>>>>>>> cad29a91d285fffc5b33b60d1d1fe6ffc3d39d0b

@@ -187,8 +187,13 @@ set(CMAKE_MAKEFILE_OUTPUTS
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
   "DartConfiguration.tcl"
+<<<<<<< HEAD
   "CMakeFiles/FindMPI/test_mpi.cpp"
   "CMakeFiles/FindMPI/test_mpi.cpp"
+=======
+  "CMakeFiles/FindMPI/test_mpi.cpp"
+  "CMakeFiles/FindMPI/test_mpi.cpp"
+>>>>>>> cad29a91d285fffc5b33b60d1d1fe6ffc3d39d0b
   "CMakeFiles/FindMPI/test_mpi.f90"
   "CMakeFiles/FindMPI/test_mpi.f90"
   "CMakeFiles/FindMPI/test_mpi.f90"

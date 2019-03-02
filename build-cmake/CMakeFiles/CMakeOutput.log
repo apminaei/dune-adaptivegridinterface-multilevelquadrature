@@ -1537,3 +1537,65 @@ Linking C executable cmTC_81000
 make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 
+Verifying Fortran/CXX Compiler Compatibility passed with the following output:
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX
+
+Run Build Command:"/usr/bin/make" "VerifyFortranC"
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
+/usr/bin/cmake -H/usr/share/cmake-3.10/Modules/FortranCInterface/Verify -B/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX --check-build-system CMakeFiles/Makefile.cmake 0
+/usr/bin/make -f CMakeFiles/Makefile2 VerifyFortranC
+make[2]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
+/usr/bin/cmake -H/usr/share/cmake-3.10/Modules/FortranCInterface/Verify -B/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX --check-build-system CMakeFiles/Makefile.cmake 0
+/usr/bin/cmake -E cmake_progress_start /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX/CMakeFiles 6
+/usr/bin/make -f CMakeFiles/Makefile2 CMakeFiles/VerifyFortranC.dir/all
+make[3]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
+/usr/bin/make -f CMakeFiles/VerifyFortran.dir/build.make CMakeFiles/VerifyFortran.dir/depend
+make[4]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
+cd /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /usr/share/cmake-3.10/Modules/FortranCInterface/Verify /usr/share/cmake-3.10/Modules/FortranCInterface/Verify /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX/CMakeFiles/VerifyFortran.dir/DependInfo.cmake
+make[4]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
+/usr/bin/make -f CMakeFiles/VerifyFortran.dir/build.make CMakeFiles/VerifyFortran.dir/requires
+make[4]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
+make[4]: Nothing to be done for 'CMakeFiles/VerifyFortran.dir/requires'.
+make[4]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
+/usr/bin/make -f CMakeFiles/VerifyFortran.dir/build.make CMakeFiles/VerifyFortran.dir/build
+make[4]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
+make[4]: Nothing to be done for 'CMakeFiles/VerifyFortran.dir/build'.
+make[4]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
+[ 33%] Built target VerifyFortran
+/usr/bin/make -f CMakeFiles/VerifyFortranC.dir/build.make CMakeFiles/VerifyFortranC.dir/depend
+make[4]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
+cd /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /usr/share/cmake-3.10/Modules/FortranCInterface/Verify /usr/share/cmake-3.10/Modules/FortranCInterface/Verify /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX/CMakeFiles/VerifyFortranC.dir/DependInfo.cmake
+make[4]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
+/usr/bin/make -f CMakeFiles/VerifyFortranC.dir/build.make CMakeFiles/VerifyFortranC.dir/build
+make[4]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
+make[4]: Nothing to be done for 'CMakeFiles/VerifyFortranC.dir/build'.
+make[4]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
+[100%] Built target VerifyFortranC
+make[3]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
+/usr/bin/cmake -E cmake_progress_start /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX/CMakeFiles 0
+make[2]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
+
+
+Determining location of SuperLU >= 5.0 succeeded:
+Include directory: /usr/include/superlu
+Library directory: /usr/lib/x86_64-linux-gnu/libsuperlu.so
+
+Determing location of ARPACK succeeded:
+Libraries to link against: /usr/lib/x86_64-linux-gnu/libarpack.so
+
+Determining location of SuiteSparse succeeded:
+Include directory: /usr/include/suitesparse
+Library directory: /usr/lib/x86_64-linux-gnu/libldl.so;/usr/lib/x86_64-linux-gnu/libspqr.so;/usr/lib/x86_64-linux-gnu/libumfpack.so;/usr/lib/x86_64-linux-gnu/libcholmod.so;/usr/lib/x86_64-linux-gnu/libamd.so;/usr/lib/x86_64-linux-gnu/libcamd.so;/usr/lib/x86_64-linux-gnu/libcolamd.so;/usr/lib/x86_64-linux-gnu/libccolamd.so;/usr/lib/x86_64-linux-gnu/libsuitesparseconfig.so
+
+Determining location of SuperLU >= 5.0 succeeded:
+Include directory: /usr/include/superlu
+Library directory: /usr/lib/x86_64-linux-gnu/libsuperlu.so
+
+Determing location of ARPACK succeeded:
+Libraries to link against: /usr/lib/x86_64-linux-gnu/libarpack.so
+
+Determining location of SuiteSparse succeeded:
+Include directory: /usr/include/suitesparse
+Library directory: /usr/lib/x86_64-linux-gnu/libldl.so;/usr/lib/x86_64-linux-gnu/libspqr.so;/usr/lib/x86_64-linux-gnu/libumfpack.so;/usr/lib/x86_64-linux-gnu/libcholmod.so;/usr/lib/x86_64-linux-gnu/libamd.so;/usr/lib/x86_64-linux-gnu/libcamd.so;/usr/lib/x86_64-linux-gnu/libcolamd.so;/usr/lib/x86_64-linux-gnu/libccolamd.so;/usr/lib/x86_64-linux-gnu/libsuitesparseconfig.so
+

@@ -51,7 +51,7 @@ EQUALS = =
 CMAKE_SOURCE_DIR = /usr/share/cmake-3.10/Modules/FortranCInterface
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface
+CMAKE_BINARY_DIR = /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/CMakeFiles /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/CMakeFiles /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

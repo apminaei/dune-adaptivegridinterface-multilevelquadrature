@@ -3,7 +3,7 @@
 
 # Relative path conversion top directories.
 set(CMAKE_RELATIVE_PATH_TOP_SOURCE "/usr/share/cmake-3.10/Modules/FortranCInterface/Verify")
-set(CMAKE_RELATIVE_PATH_TOP_BINARY "/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX")
+set(CMAKE_RELATIVE_PATH_TOP_BINARY "/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX")
 
 # Force unix paths in dependencies.
 set(CMAKE_FORCE_UNIX_PATHS 1)

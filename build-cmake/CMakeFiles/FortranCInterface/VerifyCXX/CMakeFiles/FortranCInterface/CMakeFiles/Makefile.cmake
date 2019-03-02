@@ -7,9 +7,9 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/3.10.2/CMakeCCompiler.cmake"
-  "/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/3.10.2/CMakeFortranCompiler.cmake"
-  "/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/3.10.2/CMakeSystem.cmake"
+  "/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/3.10.2/CMakeCCompiler.cmake"
+  "/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/3.10.2/CMakeFortranCompiler.cmake"
+  "/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/3.10.2/CMakeSystem.cmake"
   "Input.cmake"
   "/usr/share/cmake-3.10/Modules/CMakeCInformation.cmake"
   "/usr/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake"

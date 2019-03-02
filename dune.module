@@ -1,0 +1,10 @@
+################################
+# Dune module information file #
+################################
+
+#Name of the module
+Module: dune-adaptivegridinterface-multilevelquadrature
+Version: 1.0
+Maintainer: apminaei@zedat.fu-berlin.de
+#depending on
+Depends: dune-common dune-geometry dune-localfunctions dune-uggrid dune-grid dune-istl dune-typetree dune-functions

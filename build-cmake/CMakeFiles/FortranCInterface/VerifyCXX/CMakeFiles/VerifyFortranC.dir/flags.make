@@ -7,11 +7,11 @@ C_FLAGS = -O3 -DNDEBUG
 
 C_DEFINES = -DVERIFY_CXX
 
-C_INCLUDES = -I/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX 
+C_INCLUDES = -I/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX 
 
-CXX_FLAGS = -std=c++17 -O3 -DNDEBUG  
+CXX_FLAGS =  -std=c++14 -O3 -DNDEBUG  
 
 CXX_DEFINES = -DVERIFY_CXX
 
-CXX_INCLUDES = -I/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX 
+CXX_INCLUDES = -I/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX 
 

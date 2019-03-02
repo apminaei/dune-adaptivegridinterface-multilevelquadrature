@@ -5,8 +5,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/usr/share/cmake-3.10/Modules/FortranCInterface/Verify/VerifyC.c" "/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX/CMakeFiles/VerifyFortranC.dir/VerifyC.c.o"
-  "/usr/share/cmake-3.10/Modules/FortranCInterface/Verify/main.c" "/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX/CMakeFiles/VerifyFortranC.dir/main.c.o"
+  "/usr/share/cmake-3.10/Modules/FortranCInterface/Verify/VerifyC.c" "/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX/CMakeFiles/VerifyFortranC.dir/VerifyC.c.o"
+  "/usr/share/cmake-3.10/Modules/FortranCInterface/Verify/main.c" "/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX/CMakeFiles/VerifyFortranC.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
@@ -20,7 +20,7 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
   "."
   )
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/usr/share/cmake-3.10/Modules/FortranCInterface/Verify/VerifyCXX.cxx" "/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX/CMakeFiles/VerifyFortranC.dir/VerifyCXX.cxx.o"
+  "/usr/share/cmake-3.10/Modules/FortranCInterface/Verify/VerifyCXX.cxx" "/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX/CMakeFiles/VerifyFortranC.dir/VerifyCXX.cxx.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -36,7 +36,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX/CMakeFiles/VerifyFortran.dir/DependInfo.cmake"
+  "/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX/CMakeFiles/VerifyFortran.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

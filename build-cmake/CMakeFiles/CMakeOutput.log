@@ -1,4 +1,4 @@
-The system is: Linux - 4.15.0-43-generic - x86_64
+The system is: Linux - 4.15.0-45-generic - x86_64
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: /usr/bin/c++ 
 Build flags: 
@@ -10,33 +10,33 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
 
-The CXX compiler identification is GNU, found in "/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/3.10.2/CompilerIdCXX/a.out"
+The CXX compiler identification is GNU, found in "/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/3.10.2/CompilerIdCXX/a.out"
 
 Determining if the CXX compiler works passed with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_70355/fast"
-/usr/bin/make -f CMakeFiles/cmTC_70355.dir/build.make CMakeFiles/cmTC_70355.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_70355.dir/testCXXCompiler.cxx.o
-/usr/bin/c++     -o CMakeFiles/cmTC_70355.dir/testCXXCompiler.cxx.o -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
-Linking CXX executable cmTC_70355
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_70355.dir/link.txt --verbose=1
-/usr/bin/c++       -rdynamic CMakeFiles/cmTC_70355.dir/testCXXCompiler.cxx.o  -o cmTC_70355 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_19b53/fast"
+/usr/bin/make -f CMakeFiles/cmTC_19b53.dir/build.make CMakeFiles/cmTC_19b53.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_19b53.dir/testCXXCompiler.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTC_19b53.dir/testCXXCompiler.cxx.o -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_19b53
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_19b53.dir/link.txt --verbose=1
+/usr/bin/c++       -rdynamic CMakeFiles/cmTC_19b53.dir/testCXXCompiler.cxx.o  -o cmTC_19b53 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_d8d23/fast"
-/usr/bin/make -f CMakeFiles/cmTC_d8d23.dir/build.make CMakeFiles/cmTC_d8d23.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_d8d23.dir/CMakeCXXCompilerABI.cpp.o
-/usr/bin/c++     -o CMakeFiles/cmTC_d8d23.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTC_d8d23
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d8d23.dir/link.txt --verbose=1
-/usr/bin/c++      -v -rdynamic CMakeFiles/cmTC_d8d23.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_d8d23 
+Run Build Command:"/usr/bin/make" "cmTC_23c82/fast"
+/usr/bin/make -f CMakeFiles/cmTC_23c82.dir/build.make CMakeFiles/cmTC_23c82.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_23c82.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++     -o CMakeFiles/cmTC_23c82.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_23c82
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_23c82.dir/link.txt --verbose=1
+/usr/bin/c++      -v -rdynamic CMakeFiles/cmTC_23c82.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_23c82 
 Using built-in specs.
 COLLECT_GCC=/usr/bin/c++
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper
@@ -48,24 +48,24 @@ Thread model: posix
 gcc version 7.3.0 (Ubuntu 7.3.0-27ubuntu1~18.04) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_d8d23' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccoesY8y.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_d8d23 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_d8d23.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
-COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_d8d23' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_23c82' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccTtU9dD.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_23c82 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_23c82.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_23c82' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_d8d23/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_d8d23.dir/build.make CMakeFiles/cmTC_d8d23.dir/build]
-  ignore line: [make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_d8d23.dir/CMakeCXXCompilerABI.cpp.o]
-  ignore line: [/usr/bin/c++     -o CMakeFiles/cmTC_d8d23.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp]
-  ignore line: [Linking CXX executable cmTC_d8d23]
-  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d8d23.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/c++      -v -rdynamic CMakeFiles/cmTC_d8d23.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_d8d23 ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_23c82/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_23c82.dir/build.make CMakeFiles/cmTC_23c82.dir/build]
+  ignore line: [make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_23c82.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/bin/c++     -o CMakeFiles/cmTC_23c82.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTC_23c82]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_23c82.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/c++      -v -rdynamic CMakeFiles/cmTC_23c82.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_23c82 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/c++]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper]
@@ -77,13 +77,13 @@ Parsed CXX implicit link information from above output:
   ignore line: [gcc version 7.3.0 (Ubuntu 7.3.0-27ubuntu1~18.04) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_d8d23' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccoesY8y.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_d8d23 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_d8d23.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_23c82' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccTtU9dD.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_23c82 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_23c82.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/ccoesY8y.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccTtU9dD.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -103,7 +103,7 @@ Parsed CXX implicit link information from above output:
     arg [-znow] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_d8d23] ==> ignore
+    arg [cmTC_23c82] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o] ==> ignore
@@ -115,7 +115,7 @@ Parsed CXX implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/7/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/7/../../..]
-    arg [CMakeFiles/cmTC_d8d23.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [CMakeFiles/cmTC_23c82.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
     arg [-lstdc++] ==> lib [stdc++]
     arg [-lm] ==> lib [m]
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -141,17 +141,17 @@ Parsed CXX implicit link information from above output:
 
 
 Detecting CXX [-std=c++1z] compiler features compiled with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_a0d79/fast"
-/usr/bin/make -f CMakeFiles/cmTC_a0d79.dir/build.make CMakeFiles/cmTC_a0d79.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_a0d79.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++1z -o CMakeFiles/cmTC_a0d79.dir/feature_tests.cxx.o -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_a0d79
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a0d79.dir/link.txt --verbose=1
-/usr/bin/c++       -rdynamic CMakeFiles/cmTC_a0d79.dir/feature_tests.cxx.o  -o cmTC_a0d79 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_fc950/fast"
+/usr/bin/make -f CMakeFiles/cmTC_fc950.dir/build.make CMakeFiles/cmTC_fc950.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_fc950.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++1z -o CMakeFiles/cmTC_fc950.dir/feature_tests.cxx.o -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_fc950
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fc950.dir/link.txt --verbose=1
+/usr/bin/c++       -rdynamic CMakeFiles/cmTC_fc950.dir/feature_tests.cxx.o  -o cmTC_fc950 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -214,17 +214,17 @@ make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-mu
 
 
 Detecting CXX [-std=c++14] compiler features compiled with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_7fb4e/fast"
-/usr/bin/make -f CMakeFiles/cmTC_7fb4e.dir/build.make CMakeFiles/cmTC_7fb4e.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_7fb4e.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++14 -o CMakeFiles/cmTC_7fb4e.dir/feature_tests.cxx.o -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_7fb4e
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7fb4e.dir/link.txt --verbose=1
-/usr/bin/c++       -rdynamic CMakeFiles/cmTC_7fb4e.dir/feature_tests.cxx.o  -o cmTC_7fb4e 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_5f1e6/fast"
+/usr/bin/make -f CMakeFiles/cmTC_5f1e6.dir/build.make CMakeFiles/cmTC_5f1e6.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_5f1e6.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++14 -o CMakeFiles/cmTC_5f1e6.dir/feature_tests.cxx.o -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_5f1e6
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5f1e6.dir/link.txt --verbose=1
+/usr/bin/c++       -rdynamic CMakeFiles/cmTC_5f1e6.dir/feature_tests.cxx.o  -o cmTC_5f1e6 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -287,17 +287,17 @@ make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-mu
 
 
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_2b0cf/fast"
-/usr/bin/make -f CMakeFiles/cmTC_2b0cf.dir/build.make CMakeFiles/cmTC_2b0cf.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_2b0cf.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++11 -o CMakeFiles/cmTC_2b0cf.dir/feature_tests.cxx.o -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_2b0cf
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2b0cf.dir/link.txt --verbose=1
-/usr/bin/c++       -rdynamic CMakeFiles/cmTC_2b0cf.dir/feature_tests.cxx.o  -o cmTC_2b0cf 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_9eb3a/fast"
+/usr/bin/make -f CMakeFiles/cmTC_9eb3a.dir/build.make CMakeFiles/cmTC_9eb3a.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_9eb3a.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++11 -o CMakeFiles/cmTC_9eb3a.dir/feature_tests.cxx.o -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_9eb3a
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9eb3a.dir/link.txt --verbose=1
+/usr/bin/c++       -rdynamic CMakeFiles/cmTC_9eb3a.dir/feature_tests.cxx.o  -o cmTC_9eb3a 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -360,17 +360,17 @@ make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-mu
 
 
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_fcfdb/fast"
-/usr/bin/make -f CMakeFiles/cmTC_fcfdb.dir/build.make CMakeFiles/cmTC_fcfdb.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_fcfdb.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++98 -o CMakeFiles/cmTC_fcfdb.dir/feature_tests.cxx.o -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_fcfdb
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fcfdb.dir/link.txt --verbose=1
-/usr/bin/c++       -rdynamic CMakeFiles/cmTC_fcfdb.dir/feature_tests.cxx.o  -o cmTC_fcfdb 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_350f0/fast"
+/usr/bin/make -f CMakeFiles/cmTC_350f0.dir/build.make CMakeFiles/cmTC_350f0.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_350f0.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++98 -o CMakeFiles/cmTC_350f0.dir/feature_tests.cxx.o -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_350f0
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_350f0.dir/link.txt --verbose=1
+/usr/bin/c++       -rdynamic CMakeFiles/cmTC_350f0.dir/feature_tests.cxx.o  -o cmTC_350f0 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -441,33 +441,33 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
 
-The C compiler identification is GNU, found in "/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/3.10.2/CompilerIdC/a.out"
+The C compiler identification is GNU, found in "/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/3.10.2/CompilerIdC/a.out"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_00d35/fast"
-/usr/bin/make -f CMakeFiles/cmTC_00d35.dir/build.make CMakeFiles/cmTC_00d35.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_00d35.dir/testCCompiler.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_00d35.dir/testCCompiler.c.o   -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/testCCompiler.c
-Linking C executable cmTC_00d35
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_00d35.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_00d35.dir/testCCompiler.c.o  -o cmTC_00d35 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_f07b2/fast"
+/usr/bin/make -f CMakeFiles/cmTC_f07b2.dir/build.make CMakeFiles/cmTC_f07b2.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f07b2.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_f07b2.dir/testCCompiler.c.o   -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_f07b2
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f07b2.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_f07b2.dir/testCCompiler.c.o  -o cmTC_f07b2 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_043e1/fast"
-/usr/bin/make -f CMakeFiles/cmTC_043e1.dir/build.make CMakeFiles/cmTC_043e1.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_043e1.dir/CMakeCCompilerABI.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_043e1.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.10/Modules/CMakeCCompilerABI.c
-Linking C executable cmTC_043e1
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_043e1.dir/link.txt --verbose=1
-/usr/bin/cc     -v -rdynamic CMakeFiles/cmTC_043e1.dir/CMakeCCompilerABI.c.o  -o cmTC_043e1 
+Run Build Command:"/usr/bin/make" "cmTC_5a78b/fast"
+/usr/bin/make -f CMakeFiles/cmTC_5a78b.dir/build.make CMakeFiles/cmTC_5a78b.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5a78b.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_5a78b.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.10/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_5a78b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5a78b.dir/link.txt --verbose=1
+/usr/bin/cc     -v -rdynamic CMakeFiles/cmTC_5a78b.dir/CMakeCCompilerABI.c.o  -o cmTC_5a78b 
 Using built-in specs.
 COLLECT_GCC=/usr/bin/cc
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper
@@ -479,24 +479,24 @@ Thread model: posix
 gcc version 7.3.0 (Ubuntu 7.3.0-27ubuntu1~18.04) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_043e1' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccJXBatp.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_043e1 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_043e1.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
-COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_043e1' '-mtune=generic' '-march=x86-64'
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_5a78b' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccLUHpNf.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_5a78b /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_5a78b.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_5a78b' '-mtune=generic' '-march=x86-64'
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_043e1/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_043e1.dir/build.make CMakeFiles/cmTC_043e1.dir/build]
-  ignore line: [make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_043e1.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_043e1.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.10/Modules/CMakeCCompilerABI.c]
-  ignore line: [Linking C executable cmTC_043e1]
-  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_043e1.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/cc     -v -rdynamic CMakeFiles/cmTC_043e1.dir/CMakeCCompilerABI.c.o  -o cmTC_043e1 ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_5a78b/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_5a78b.dir/build.make CMakeFiles/cmTC_5a78b.dir/build]
+  ignore line: [make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_5a78b.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_5a78b.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.10/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_5a78b]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5a78b.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc     -v -rdynamic CMakeFiles/cmTC_5a78b.dir/CMakeCCompilerABI.c.o  -o cmTC_5a78b ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/cc]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper]
@@ -508,13 +508,13 @@ Parsed C implicit link information from above output:
   ignore line: [gcc version 7.3.0 (Ubuntu 7.3.0-27ubuntu1~18.04) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_043e1' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccJXBatp.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_043e1 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_043e1.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_5a78b' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccLUHpNf.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_5a78b /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_5a78b.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/ccJXBatp.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccLUHpNf.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -534,7 +534,7 @@ Parsed C implicit link information from above output:
     arg [-znow] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_043e1] ==> ignore
+    arg [cmTC_5a78b] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o] ==> ignore
@@ -546,7 +546,7 @@ Parsed C implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/7/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/7/../../..]
-    arg [CMakeFiles/cmTC_043e1.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_5a78b.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lgcc] ==> lib [gcc]
     arg [--push-state] ==> ignore
     arg [--as-needed] ==> ignore
@@ -576,17 +576,17 @@ Parsed C implicit link information from above output:
 
 
 Detecting C [-std=c11] compiler features compiled with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_7a3d4/fast"
-/usr/bin/make -f CMakeFiles/cmTC_7a3d4.dir/build.make CMakeFiles/cmTC_7a3d4.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_7a3d4.dir/feature_tests.c.o
-/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_7a3d4.dir/feature_tests.c.o   -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/feature_tests.c
-Linking C executable cmTC_7a3d4
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7a3d4.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_7a3d4.dir/feature_tests.c.o  -o cmTC_7a3d4 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_122b0/fast"
+/usr/bin/make -f CMakeFiles/cmTC_122b0.dir/build.make CMakeFiles/cmTC_122b0.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_122b0.dir/feature_tests.c.o
+/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_122b0.dir/feature_tests.c.o   -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/feature_tests.c
+Linking C executable cmTC_122b0
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_122b0.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_122b0.dir/feature_tests.c.o  -o cmTC_122b0 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -596,17 +596,17 @@ make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-mu
 
 
 Detecting C [-std=c99] compiler features compiled with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_8af03/fast"
-/usr/bin/make -f CMakeFiles/cmTC_8af03.dir/build.make CMakeFiles/cmTC_8af03.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_8af03.dir/feature_tests.c.o
-/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_8af03.dir/feature_tests.c.o   -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/feature_tests.c
-Linking C executable cmTC_8af03
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8af03.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_8af03.dir/feature_tests.c.o  -o cmTC_8af03 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_a2dee/fast"
+/usr/bin/make -f CMakeFiles/cmTC_a2dee.dir/build.make CMakeFiles/cmTC_a2dee.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a2dee.dir/feature_tests.c.o
+/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_a2dee.dir/feature_tests.c.o   -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/feature_tests.c
+Linking C executable cmTC_a2dee
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a2dee.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_a2dee.dir/feature_tests.c.o  -o cmTC_a2dee 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -616,17 +616,17 @@ make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-mu
 
 
 Detecting C [-std=c90] compiler features compiled with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_4e695/fast"
-/usr/bin/make -f CMakeFiles/cmTC_4e695.dir/build.make CMakeFiles/cmTC_4e695.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_4e695.dir/feature_tests.c.o
-/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_4e695.dir/feature_tests.c.o   -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/feature_tests.c
-Linking C executable cmTC_4e695
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4e695.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_4e695.dir/feature_tests.c.o  -o cmTC_4e695 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_5934a/fast"
+/usr/bin/make -f CMakeFiles/cmTC_5934a.dir/build.make CMakeFiles/cmTC_5934a.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5934a.dir/feature_tests.c.o
+/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_5934a.dir/feature_tests.c.o   -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/feature_tests.c
+Linking C executable cmTC_5934a
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5934a.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_5934a.dir/feature_tests.c.o  -o cmTC_5934a 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -651,7 +651,7 @@ Configured with: ../src/configure -v --with-pkgversion='Ubuntu 7.3.0-27ubuntu1~1
 Thread model: posix
 gcc version 7.3.0 (Ubuntu 7.3.0-27ubuntu1~18.04) 
 COLLECT_GCC_OPTIONS='-v' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/7/f951 CMakeFortranCompilerId.F -ffixed-form -cpp=/tmp/ccpVRJWa.f90 -quiet -v -imultiarch x86_64-linux-gnu CMakeFortranCompilerId.F -quiet -dumpbase CMakeFortranCompilerId.F -mtune=generic -march=x86-64 -auxbase CMakeFortranCompilerId -version -fintrinsic-modules-path /usr/lib/gcc/x86_64-linux-gnu/7/finclude -o /tmp/ccgt7OzB.s
+ /usr/lib/gcc/x86_64-linux-gnu/7/f951 CMakeFortranCompilerId.F -ffixed-form -cpp=/tmp/ccFuMUV2.f90 -quiet -v -imultiarch x86_64-linux-gnu CMakeFortranCompilerId.F -quiet -dumpbase CMakeFortranCompilerId.F -mtune=generic -march=x86-64 -auxbase CMakeFortranCompilerId -version -fintrinsic-modules-path /usr/lib/gcc/x86_64-linux-gnu/7/finclude -o /tmp/ccomn8pL.s
 GNU Fortran (Ubuntu 7.3.0-27ubuntu1~18.04) version 7.3.0 (x86_64-linux-gnu)
 	compiled by GNU C version 7.3.0, GMP version 6.1.2, MPFR version 4.0.1, MPC version 1.1.0, isl version isl-0.19-GMP
 
@@ -672,7 +672,7 @@ GNU Fortran2008 (Ubuntu 7.3.0-27ubuntu1~18.04) version 7.3.0 (x86_64-linux-gnu)
 
 GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
 COLLECT_GCC_OPTIONS='-v' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
- as -v --64 -o /tmp/ccmld3e2.o /tmp/ccgt7OzB.s
+ as -v --64 -o /tmp/ccLxmqWt.o /tmp/ccomn8pL.s
 GNU assembler version 2.30 (x86_64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.30
 Reading specs from /usr/lib/gcc/x86_64-linux-gnu/7/libgfortran.spec
 rename spec lib to liborig
@@ -680,40 +680,40 @@ COLLECT_GCC_OPTIONS='-v' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/
 COLLECT_GCC_OPTIONS='-v' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccffYRUs.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lquadmath -plugin-opt=-pass-through=-lm -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. /tmp/ccmld3e2.o -lgfortran -lm -lgcc_s -lgcc -lquadmath -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccKzFjtc.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lquadmath -plugin-opt=-pass-through=-lm -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. /tmp/ccLxmqWt.o -lgfortran -lm -lgcc_s -lgcc -lquadmath -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
 COLLECT_GCC_OPTIONS='-v' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
 
 
 Compilation of the Fortran compiler identification source "CMakeFortranCompilerId.F" produced "a.out"
 
-The Fortran compiler identification is GNU, found in "/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/3.10.2/CompilerIdFortran/a.out"
+The Fortran compiler identification is GNU, found in "/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/3.10.2/CompilerIdFortran/a.out"
 
 Determining if the Fortran compiler works passed with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_4cf31/fast"
-/usr/bin/make -f CMakeFiles/cmTC_4cf31.dir/build.make CMakeFiles/cmTC_4cf31.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building Fortran object CMakeFiles/cmTC_4cf31.dir/testFortranCompiler.f.o
-/usr/bin/gfortran    -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/testFortranCompiler.f -o CMakeFiles/cmTC_4cf31.dir/testFortranCompiler.f.o
-Linking Fortran executable cmTC_4cf31
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4cf31.dir/link.txt --verbose=1
-/usr/bin/gfortran      CMakeFiles/cmTC_4cf31.dir/testFortranCompiler.f.o  -o cmTC_4cf31 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_468c6/fast"
+/usr/bin/make -f CMakeFiles/cmTC_468c6.dir/build.make CMakeFiles/cmTC_468c6.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building Fortran object CMakeFiles/cmTC_468c6.dir/testFortranCompiler.f.o
+/usr/bin/gfortran    -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp/testFortranCompiler.f -o CMakeFiles/cmTC_468c6.dir/testFortranCompiler.f.o
+Linking Fortran executable cmTC_468c6
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_468c6.dir/link.txt --verbose=1
+/usr/bin/gfortran      CMakeFiles/cmTC_468c6.dir/testFortranCompiler.f.o  -o cmTC_468c6 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 
 Detecting Fortran compiler ABI info compiled with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_dcf22/fast"
-/usr/bin/make -f CMakeFiles/cmTC_dcf22.dir/build.make CMakeFiles/cmTC_dcf22.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building Fortran object CMakeFiles/cmTC_dcf22.dir/CMakeFortranCompilerABI.F.o
-/usr/bin/gfortran    -c /usr/share/cmake-3.10/Modules/CMakeFortranCompilerABI.F -o CMakeFiles/cmTC_dcf22.dir/CMakeFortranCompilerABI.F.o
-Linking Fortran executable cmTC_dcf22
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_dcf22.dir/link.txt --verbose=1
-/usr/bin/gfortran   -v   CMakeFiles/cmTC_dcf22.dir/CMakeFortranCompilerABI.F.o  -o cmTC_dcf22 
-Driving: /usr/bin/gfortran -v CMakeFiles/cmTC_dcf22.dir/CMakeFortranCompilerABI.F.o -o cmTC_dcf22 -l gfortran -l m -shared-libgcc
+Run Build Command:"/usr/bin/make" "cmTC_b48b8/fast"
+/usr/bin/make -f CMakeFiles/cmTC_b48b8.dir/build.make CMakeFiles/cmTC_b48b8.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building Fortran object CMakeFiles/cmTC_b48b8.dir/CMakeFortranCompilerABI.F.o
+/usr/bin/gfortran    -c /usr/share/cmake-3.10/Modules/CMakeFortranCompilerABI.F -o CMakeFiles/cmTC_b48b8.dir/CMakeFortranCompilerABI.F.o
+Linking Fortran executable cmTC_b48b8
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b48b8.dir/link.txt --verbose=1
+/usr/bin/gfortran   -v   CMakeFiles/cmTC_b48b8.dir/CMakeFortranCompilerABI.F.o  -o cmTC_b48b8 
+Driving: /usr/bin/gfortran -v CMakeFiles/cmTC_b48b8.dir/CMakeFortranCompilerABI.F.o -o cmTC_b48b8 -l gfortran -l m -shared-libgcc
 Using built-in specs.
 COLLECT_GCC=/usr/bin/gfortran
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper
@@ -725,28 +725,28 @@ Thread model: posix
 gcc version 7.3.0 (Ubuntu 7.3.0-27ubuntu1~18.04) 
 Reading specs from /usr/lib/gcc/x86_64-linux-gnu/7/libgfortran.spec
 rename spec lib to liborig
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_dcf22' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_b48b8' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_dcf22' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/cc4ABEPo.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lquadmath -plugin-opt=-pass-through=-lm -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_dcf22 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_dcf22.dir/CMakeFortranCompilerABI.F.o -lgfortran -lm -lgcc_s -lgcc -lquadmath -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_dcf22' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_b48b8' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/cc1HdtI5.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lquadmath -plugin-opt=-pass-through=-lm -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_b48b8 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_b48b8.dir/CMakeFortranCompilerABI.F.o -lgfortran -lm -lgcc_s -lgcc -lquadmath -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_b48b8' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 
 Parsed Fortran implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_dcf22/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_dcf22.dir/build.make CMakeFiles/cmTC_dcf22.dir/build]
-  ignore line: [make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp']
-  ignore line: [Building Fortran object CMakeFiles/cmTC_dcf22.dir/CMakeFortranCompilerABI.F.o]
-  ignore line: [/usr/bin/gfortran    -c /usr/share/cmake-3.10/Modules/CMakeFortranCompilerABI.F -o CMakeFiles/cmTC_dcf22.dir/CMakeFortranCompilerABI.F.o]
-  ignore line: [Linking Fortran executable cmTC_dcf22]
-  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_dcf22.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/gfortran   -v   CMakeFiles/cmTC_dcf22.dir/CMakeFortranCompilerABI.F.o  -o cmTC_dcf22 ]
-  ignore line: [Driving: /usr/bin/gfortran -v CMakeFiles/cmTC_dcf22.dir/CMakeFortranCompilerABI.F.o -o cmTC_dcf22 -l gfortran -l m -shared-libgcc]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_b48b8/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_b48b8.dir/build.make CMakeFiles/cmTC_b48b8.dir/build]
+  ignore line: [make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp']
+  ignore line: [Building Fortran object CMakeFiles/cmTC_b48b8.dir/CMakeFortranCompilerABI.F.o]
+  ignore line: [/usr/bin/gfortran    -c /usr/share/cmake-3.10/Modules/CMakeFortranCompilerABI.F -o CMakeFiles/cmTC_b48b8.dir/CMakeFortranCompilerABI.F.o]
+  ignore line: [Linking Fortran executable cmTC_b48b8]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b48b8.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/gfortran   -v   CMakeFiles/cmTC_b48b8.dir/CMakeFortranCompilerABI.F.o  -o cmTC_b48b8 ]
+  ignore line: [Driving: /usr/bin/gfortran -v CMakeFiles/cmTC_b48b8.dir/CMakeFortranCompilerABI.F.o -o cmTC_b48b8 -l gfortran -l m -shared-libgcc]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/gfortran]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper]
@@ -758,16 +758,16 @@ Parsed Fortran implicit link information from above output:
   ignore line: [gcc version 7.3.0 (Ubuntu 7.3.0-27ubuntu1~18.04) ]
   ignore line: [Reading specs from /usr/lib/gcc/x86_64-linux-gnu/7/libgfortran.spec]
   ignore line: [rename spec lib to liborig]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_dcf22' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_b48b8' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_dcf22' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/cc4ABEPo.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lquadmath -plugin-opt=-pass-through=-lm -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_dcf22 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_dcf22.dir/CMakeFortranCompilerABI.F.o -lgfortran -lm -lgcc_s -lgcc -lquadmath -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_b48b8' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/cc1HdtI5.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lquadmath -plugin-opt=-pass-through=-lm -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_b48b8 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_b48b8.dir/CMakeFortranCompilerABI.F.o -lgfortran -lm -lgcc_s -lgcc -lquadmath -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/cc4ABEPo.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/cc1HdtI5.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lquadmath] ==> ignore
@@ -790,7 +790,7 @@ Parsed Fortran implicit link information from above output:
     arg [-znow] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_dcf22] ==> ignore
+    arg [cmTC_b48b8] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o] ==> ignore
@@ -802,7 +802,7 @@ Parsed Fortran implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/7/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/7/../../..]
-    arg [CMakeFiles/cmTC_dcf22.dir/CMakeFortranCompilerABI.F.o] ==> ignore
+    arg [CMakeFiles/cmTC_b48b8.dir/CMakeFortranCompilerABI.F.o] ==> ignore
     arg [-lgfortran] ==> lib [gfortran]
     arg [-lm] ==> lib [m]
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -830,73 +830,72 @@ Parsed Fortran implicit link information from above output:
 
 
 Determining if the Fortran compiler supports Fortran 90 passed with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_92714/fast"
-/usr/bin/make -f CMakeFiles/cmTC_92714.dir/build.make CMakeFiles/cmTC_92714.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building Fortran object CMakeFiles/cmTC_92714.dir/testFortranCompilerF90.f90.o
-/usr/bin/gfortran    -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/testFortranCompilerF90.f90 -o CMakeFiles/cmTC_92714.dir/testFortranCompilerF90.f90.o
-Linking Fortran executable cmTC_92714
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_92714.dir/link.txt --verbose=1
-/usr/bin/gfortran      CMakeFiles/cmTC_92714.dir/testFortranCompilerF90.f90.o  -o cmTC_92714 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_0c836/fast"
+/usr/bin/make -f CMakeFiles/cmTC_0c836.dir/build.make CMakeFiles/cmTC_0c836.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building Fortran object CMakeFiles/cmTC_0c836.dir/testFortranCompilerF90.f90.o
+/usr/bin/gfortran    -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp/testFortranCompilerF90.f90 -o CMakeFiles/cmTC_0c836.dir/testFortranCompilerF90.f90.o
+Linking Fortran executable cmTC_0c836
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0c836.dir/link.txt --verbose=1
+/usr/bin/gfortran      CMakeFiles/cmTC_0c836.dir/testFortranCompilerF90.f90.o  -o cmTC_0c836 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 
-Performing C++ SOURCE FILE Test cxx_std_flag_17 succeeded with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Performing C++ SOURCE FILE Test cxx_std_flag_14 succeeded with the following output:
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_a9cc8/fast"
-/usr/bin/make -f CMakeFiles/cmTC_a9cc8.dir/build.make CMakeFiles/cmTC_a9cc8.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_a9cc8.dir/src.cxx.o
-/usr/bin/c++    -Dcxx_std_flag_17 -fPIE   -std=c++17 -o CMakeFiles/cmTC_a9cc8.dir/src.cxx.o -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/src.cxx
-Linking CXX executable cmTC_a9cc8
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a9cc8.dir/link.txt --verbose=1
-/usr/bin/c++   -Dcxx_std_flag_17    -rdynamic CMakeFiles/cmTC_a9cc8.dir/src.cxx.o  -o cmTC_a9cc8 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_ea64d/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ea64d.dir/build.make CMakeFiles/cmTC_ea64d.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_ea64d.dir/src.cxx.o
+/usr/bin/c++    -Dcxx_std_flag_14   -std=c++14 -o CMakeFiles/cmTC_ea64d.dir/src.cxx.o -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_ea64d
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ea64d.dir/link.txt --verbose=1
+/usr/bin/c++   -Dcxx_std_flag_14    -rdynamic CMakeFiles/cmTC_ea64d.dir/src.cxx.o  -o cmTC_ea64d 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 Source file was:
 int main() { return 0; }
-Performing C++ SOURCE FILE Test compiler_supports_cxx17 succeeded with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Performing C++ SOURCE FILE Test compiler_supports_cxx14 succeeded with the following output:
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_da1e5/fast"
-/usr/bin/make -f CMakeFiles/cmTC_da1e5.dir/build.make CMakeFiles/cmTC_da1e5.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_da1e5.dir/src.cxx.o
-/usr/bin/c++    -Dcompiler_supports_cxx17  -std=c++17 -fPIE   -o CMakeFiles/cmTC_da1e5.dir/src.cxx.o -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/src.cxx
-Linking CXX executable cmTC_da1e5
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_da1e5.dir/link.txt --verbose=1
-/usr/bin/c++   -Dcompiler_supports_cxx17  -std=c++17    -rdynamic CMakeFiles/cmTC_da1e5.dir/src.cxx.o  -o cmTC_da1e5 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_64178/fast"
+/usr/bin/make -f CMakeFiles/cmTC_64178.dir/build.make CMakeFiles/cmTC_64178.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_64178.dir/src.cxx.o
+/usr/bin/c++    -Dcompiler_supports_cxx14  -std=c++14   -o CMakeFiles/cmTC_64178.dir/src.cxx.o -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_64178
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_64178.dir/link.txt --verbose=1
+/usr/bin/c++   -Dcompiler_supports_cxx14  -std=c++14    -rdynamic CMakeFiles/cmTC_64178.dir/src.cxx.o  -o cmTC_64178 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 Source file was:
 
-  #include <type_traits>
-
-  // nested namespaces are a C++17 compiler feature
-  namespace A::B {
-    using T = int;
-  }
+  #include <memory>
 
   int main() {
-    // std::void_t is a C++17 library feature
-    return not std::is_same<void,std::void_t<A::B::T> >{};
+    // lambdas with auto parameters are C++14 - so this checks the compiler
+    auto l = [](auto x) { return x; };
+    // std::make_unique() is a C++14 library feature - this checks whether the
+    // compiler uses a C++14 compliant library.
+    auto v = std::make_unique<int>(l(0));
+    return *v;
   }
   
 Performing C++ SOURCE FILE Test HAS_ATTRIBUTE_UNUSED succeeded with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_9d8c8/fast"
-/usr/bin/make -f CMakeFiles/cmTC_9d8c8.dir/build.make CMakeFiles/cmTC_9d8c8.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_9d8c8.dir/src.cxx.o
-/usr/bin/c++    -std=c++17  -DHAS_ATTRIBUTE_UNUSED -fPIE   -o CMakeFiles/cmTC_9d8c8.dir/src.cxx.o -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/src.cxx
-Linking CXX executable cmTC_9d8c8
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9d8c8.dir/link.txt --verbose=1
-/usr/bin/c++  -std=c++17  -DHAS_ATTRIBUTE_UNUSED    -rdynamic CMakeFiles/cmTC_9d8c8.dir/src.cxx.o  -o cmTC_9d8c8 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_60deb/fast"
+/usr/bin/make -f CMakeFiles/cmTC_60deb.dir/build.make CMakeFiles/cmTC_60deb.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_60deb.dir/src.cxx.o
+/usr/bin/c++    -std=c++14  -DHAS_ATTRIBUTE_UNUSED   -o CMakeFiles/cmTC_60deb.dir/src.cxx.o -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_60deb
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_60deb.dir/link.txt --verbose=1
+/usr/bin/c++   -std=c++14  -DHAS_ATTRIBUTE_UNUSED    -rdynamic CMakeFiles/cmTC_60deb.dir/src.cxx.o  -o cmTC_60deb 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 Source file was:
 
@@ -907,17 +906,17 @@ Source file was:
    };
 
 Performing C++ SOURCE FILE Test HAS_ATTRIBUTE_DEPRECATED succeeded with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_e51c5/fast"
-/usr/bin/make -f CMakeFiles/cmTC_e51c5.dir/build.make CMakeFiles/cmTC_e51c5.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_e51c5.dir/src.cxx.o
-/usr/bin/c++    -std=c++17  -DHAS_ATTRIBUTE_DEPRECATED -fPIE   -o CMakeFiles/cmTC_e51c5.dir/src.cxx.o -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/src.cxx
-Linking CXX executable cmTC_e51c5
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e51c5.dir/link.txt --verbose=1
-/usr/bin/c++  -std=c++17  -DHAS_ATTRIBUTE_DEPRECATED    -rdynamic CMakeFiles/cmTC_e51c5.dir/src.cxx.o  -o cmTC_e51c5 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_44d09/fast"
+/usr/bin/make -f CMakeFiles/cmTC_44d09.dir/build.make CMakeFiles/cmTC_44d09.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_44d09.dir/src.cxx.o
+/usr/bin/c++    -std=c++14  -DHAS_ATTRIBUTE_DEPRECATED   -o CMakeFiles/cmTC_44d09.dir/src.cxx.o -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_44d09
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_44d09.dir/link.txt --verbose=1
+/usr/bin/c++   -std=c++14  -DHAS_ATTRIBUTE_DEPRECATED    -rdynamic CMakeFiles/cmTC_44d09.dir/src.cxx.o  -o cmTC_44d09 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 Source file was:
 
@@ -950,17 +949,17 @@ Source file was:
    };
 
 Performing C++ SOURCE FILE Test HAS_ATTRIBUTE_DEPRECATED_MSG succeeded with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_f9775/fast"
-/usr/bin/make -f CMakeFiles/cmTC_f9775.dir/build.make CMakeFiles/cmTC_f9775.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_f9775.dir/src.cxx.o
-/usr/bin/c++    -std=c++17  -DHAS_ATTRIBUTE_DEPRECATED_MSG -fPIE   -o CMakeFiles/cmTC_f9775.dir/src.cxx.o -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/src.cxx
-Linking CXX executable cmTC_f9775
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f9775.dir/link.txt --verbose=1
-/usr/bin/c++  -std=c++17  -DHAS_ATTRIBUTE_DEPRECATED_MSG    -rdynamic CMakeFiles/cmTC_f9775.dir/src.cxx.o  -o cmTC_f9775 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_1251c/fast"
+/usr/bin/make -f CMakeFiles/cmTC_1251c.dir/build.make CMakeFiles/cmTC_1251c.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_1251c.dir/src.cxx.o
+/usr/bin/c++    -std=c++14  -DHAS_ATTRIBUTE_DEPRECATED_MSG   -o CMakeFiles/cmTC_1251c.dir/src.cxx.o -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_1251c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1251c.dir/link.txt --verbose=1
+/usr/bin/c++   -std=c++14  -DHAS_ATTRIBUTE_DEPRECATED_MSG    -rdynamic CMakeFiles/cmTC_1251c.dir/src.cxx.o  -o cmTC_1251c 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 Source file was:
 
@@ -993,17 +992,17 @@ Source file was:
    };
 
 Performing C++ SOURCE FILE Test HAVE_IS_INDEXABLE_SUPPORT succeeded with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_08c24/fast"
-/usr/bin/make -f CMakeFiles/cmTC_08c24.dir/build.make CMakeFiles/cmTC_08c24.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_08c24.dir/src.cxx.o
-/usr/bin/c++    -std=c++17  -DHAVE_IS_INDEXABLE_SUPPORT -fPIE   -o CMakeFiles/cmTC_08c24.dir/src.cxx.o -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/src.cxx
-Linking CXX executable cmTC_08c24
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_08c24.dir/link.txt --verbose=1
-/usr/bin/c++  -std=c++17  -DHAVE_IS_INDEXABLE_SUPPORT    -rdynamic CMakeFiles/cmTC_08c24.dir/src.cxx.o  -o cmTC_08c24 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_9814a/fast"
+/usr/bin/make -f CMakeFiles/cmTC_9814a.dir/build.make CMakeFiles/cmTC_9814a.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_9814a.dir/src.cxx.o
+/usr/bin/c++    -std=c++14  -DHAVE_IS_INDEXABLE_SUPPORT   -o CMakeFiles/cmTC_9814a.dir/src.cxx.o -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_9814a
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9814a.dir/link.txt --verbose=1
+/usr/bin/c++   -std=c++14  -DHAVE_IS_INDEXABLE_SUPPORT    -rdynamic CMakeFiles/cmTC_9814a.dir/src.cxx.o  -o cmTC_9814a 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 Source file was:
 
@@ -1051,99 +1050,32 @@ Source file was:
     return 0;
   }
 
-Performing C++ SOURCE FILE Test DUNE_HAVE_CXX_CLASS_TEMPLATE_ARGUMENT_DEDUCTION succeeded with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
-
-Run Build Command:"/usr/bin/make" "cmTC_a03eb/fast"
-/usr/bin/make -f CMakeFiles/cmTC_a03eb.dir/build.make CMakeFiles/cmTC_a03eb.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_a03eb.dir/src.cxx.o
-/usr/bin/c++    -std=c++17  -DDUNE_HAVE_CXX_CLASS_TEMPLATE_ARGUMENT_DEDUCTION -fPIE   -o CMakeFiles/cmTC_a03eb.dir/src.cxx.o -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/src.cxx
-Linking CXX executable cmTC_a03eb
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a03eb.dir/link.txt --verbose=1
-/usr/bin/c++  -std=c++17  -DDUNE_HAVE_CXX_CLASS_TEMPLATE_ARGUMENT_DEDUCTION    -rdynamic CMakeFiles/cmTC_a03eb.dir/src.cxx.o  -o cmTC_a03eb 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-
-Source file was:
-
-  #include <type_traits>
-
-  template<typename T1>
-  struct A {
-    A(T1) {}
-
-    template<typename T2>
-    A(T2, T2) {}
-  };
-
-  struct B {
-    using type = bool;
-  };
-
-  template<typename T2>
-  A(T2, T2)
-    -> A<typename T2::type>;
-
-  int main()
-  {
-    A a1(1);
-    static_assert(std::is_same_v< decltype(a1), A<int> >);
-
-    B b;
-    A a2(b, b);
-    static_assert(std::is_same_v< decltype(a2), A<bool> >);
-  }
-
-Performing C++ SOURCE FILE Test DUNE_HAVE_CXX_OPTIONAL succeeded with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
-
-Run Build Command:"/usr/bin/make" "cmTC_2c26f/fast"
-/usr/bin/make -f CMakeFiles/cmTC_2c26f.dir/build.make CMakeFiles/cmTC_2c26f.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_2c26f.dir/src.cxx.o
-/usr/bin/c++    -std=c++17  -DDUNE_HAVE_CXX_OPTIONAL -fPIE   -o CMakeFiles/cmTC_2c26f.dir/src.cxx.o -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/src.cxx
-Linking CXX executable cmTC_2c26f
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2c26f.dir/link.txt --verbose=1
-/usr/bin/c++  -std=c++17  -DDUNE_HAVE_CXX_OPTIONAL    -rdynamic CMakeFiles/cmTC_2c26f.dir/src.cxx.o  -o cmTC_2c26f 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-
-Source file was:
-
-  #include <optional>
-  #include <string>
-
-  int main()
-  {
-    std::optional< std::string > a;
-    std::string b = a.value_or( "empty" );
-  }
-
 Determining if the include file pthread.h exists passed with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_fbd7d/fast"
-/usr/bin/make -f CMakeFiles/cmTC_fbd7d.dir/build.make CMakeFiles/cmTC_fbd7d.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_fbd7d.dir/CheckIncludeFile.c.o
-/usr/bin/cc   -fPIE   -o CMakeFiles/cmTC_fbd7d.dir/CheckIncludeFile.c.o   -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-Linking C executable cmTC_fbd7d
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fbd7d.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_fbd7d.dir/CheckIncludeFile.c.o  -o cmTC_fbd7d 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_95a80/fast"
+/usr/bin/make -f CMakeFiles/cmTC_95a80.dir/build.make CMakeFiles/cmTC_95a80.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_95a80.dir/CheckIncludeFile.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_95a80.dir/CheckIncludeFile.c.o   -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_95a80
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_95a80.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_95a80.dir/CheckIncludeFile.c.o  -o cmTC_95a80 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 
 Performing C++ SOURCE FILE Test STDTHREAD_WORKS succeeded with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_3fed3/fast"
-/usr/bin/make -f CMakeFiles/cmTC_3fed3.dir/build.make CMakeFiles/cmTC_3fed3.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_3fed3.dir/src.cxx.o
-/usr/bin/c++    -std=c++17  -DSTDTHREAD_WORKS -fPIE   -o CMakeFiles/cmTC_3fed3.dir/src.cxx.o -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/src.cxx
-Linking CXX executable cmTC_3fed3
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3fed3.dir/link.txt --verbose=1
-/usr/bin/c++  -std=c++17  -DSTDTHREAD_WORKS    -rdynamic CMakeFiles/cmTC_3fed3.dir/src.cxx.o  -o cmTC_3fed3 -Wl,-no-as-needed -pthread 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_3e621/fast"
+/usr/bin/make -f CMakeFiles/cmTC_3e621.dir/build.make CMakeFiles/cmTC_3e621.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_3e621.dir/src.cxx.o
+/usr/bin/c++    -std=c++14  -DSTDTHREAD_WORKS   -o CMakeFiles/cmTC_3e621.dir/src.cxx.o -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_3e621
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3e621.dir/link.txt --verbose=1
+/usr/bin/c++   -std=c++14  -DSTDTHREAD_WORKS    -rdynamic CMakeFiles/cmTC_3e621.dir/src.cxx.o  -o cmTC_3e621 -Wl,-no-as-needed -pthread 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 Return value: 1
 Source file was:
@@ -1157,221 +1089,18 @@ Source file was:
         t.join();
       }
     
-Performing C++ SOURCE FILE Test DUNE_SUPPORTS_CXX_THROW_IN_CONSTEXPR succeeded with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
-
-Run Build Command:"/usr/bin/make" "cmTC_97747/fast"
-/usr/bin/make -f CMakeFiles/cmTC_97747.dir/build.make CMakeFiles/cmTC_97747.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_97747.dir/src.cxx.o
-/usr/bin/c++    -std=c++17  -DDUNE_SUPPORTS_CXX_THROW_IN_CONSTEXPR -fPIE   -o CMakeFiles/cmTC_97747.dir/src.cxx.o -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/src.cxx
-Linking CXX executable cmTC_97747
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_97747.dir/link.txt --verbose=1
-/usr/bin/c++  -std=c++17  -DDUNE_SUPPORTS_CXX_THROW_IN_CONSTEXPR    -rdynamic CMakeFiles/cmTC_97747.dir/src.cxx.o  -o cmTC_97747 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-
-Source file was:
-
-  constexpr int foo(int bar)
-  {
-    if (bar < 0)
-      throw bar;
-    int r = 1;
-    for (int i = 0 ; i < bar ; ++i)
-      r += r;
-    return r;
-  }
-
-  int main()
-  {
-    static_assert(foo(4) == 16, "test failed");
-    return 0;
-  }
-
-Determining if the include file experimental/type_traits exists passed with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
-
-Run Build Command:"/usr/bin/make" "cmTC_a3cb3/fast"
-/usr/bin/make -f CMakeFiles/cmTC_a3cb3.dir/build.make CMakeFiles/cmTC_a3cb3.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_a3cb3.dir/CheckIncludeFile.cxx.o
-/usr/bin/c++    -std=c++17   -fPIE   -o CMakeFiles/cmTC_a3cb3.dir/CheckIncludeFile.cxx.o -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/CheckIncludeFile.cxx
-Linking CXX executable cmTC_a3cb3
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a3cb3.dir/link.txt --verbose=1
-/usr/bin/c++  -std=c++17      -rdynamic CMakeFiles/cmTC_a3cb3.dir/CheckIncludeFile.cxx.o  -o cmTC_a3cb3 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-
-
-Determining if the std::make_unique<int> exist passed with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
-
-Run Build Command:"/usr/bin/make" "cmTC_2c6b1/fast"
-/usr/bin/make -f CMakeFiles/cmTC_2c6b1.dir/build.make CMakeFiles/cmTC_2c6b1.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_2c6b1.dir/CheckSymbolExists.cxx.o
-/usr/bin/c++    -std=c++17   -fPIE   -o CMakeFiles/cmTC_2c6b1.dir/CheckSymbolExists.cxx.o -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
-/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:7:12: warning: extra tokens at end of #ifndef directive
- #ifndef std::make_unique<int>
-            ^~
-Linking CXX executable cmTC_2c6b1
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2c6b1.dir/link.txt --verbose=1
-/usr/bin/c++  -std=c++17      -rdynamic CMakeFiles/cmTC_2c6b1.dir/CheckSymbolExists.cxx.o  -o cmTC_2c6b1 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-
-File /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
-/* */
-#include <memory>
-
-int main(int argc, char** argv)
-{
-  (void)argv;
-#ifndef std::make_unique<int>
-  return ((int*)(&std::make_unique<int>))[argc];
-#else
-  (void)argc;
-  return 0;
-#endif
-}
-
-Determining if the std::move<std::bool_constant<true>> exist passed with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
-
-Run Build Command:"/usr/bin/make" "cmTC_56493/fast"
-/usr/bin/make -f CMakeFiles/cmTC_56493.dir/build.make CMakeFiles/cmTC_56493.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_56493.dir/CheckSymbolExists.cxx.o
-/usr/bin/c++    -std=c++17   -fPIE   -o CMakeFiles/cmTC_56493.dir/CheckSymbolExists.cxx.o -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
-/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:12: warning: extra tokens at end of #ifndef directive
- #ifndef std::move<std::bool_constant<true>>
-            ^~
-Linking CXX executable cmTC_56493
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_56493.dir/link.txt --verbose=1
-/usr/bin/c++  -std=c++17      -rdynamic CMakeFiles/cmTC_56493.dir/CheckSymbolExists.cxx.o  -o cmTC_56493 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-
-File /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
-/* */
-#include <utility>
-#include <type_traits>
-
-int main(int argc, char** argv)
-{
-  (void)argv;
-#ifndef std::move<std::bool_constant<true>>
-  return ((int*)(&std::move<std::bool_constant<true>>))[argc];
-#else
-  (void)argc;
-  return 0;
-#endif
-}
-
-Determining if the std::apply<std::negate<int>,std::tuple<int>> exist passed with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
-
-Run Build Command:"/usr/bin/make" "cmTC_84bdb/fast"
-/usr/bin/make -f CMakeFiles/cmTC_84bdb.dir/build.make CMakeFiles/cmTC_84bdb.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_84bdb.dir/CheckSymbolExists.cxx.o
-/usr/bin/c++    -std=c++17   -fPIE   -o CMakeFiles/cmTC_84bdb.dir/CheckSymbolExists.cxx.o -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
-/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:12: warning: extra tokens at end of #ifndef directive
- #ifndef std::apply<std::negate<int>,std::tuple<int>>
-            ^~
-Linking CXX executable cmTC_84bdb
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_84bdb.dir/link.txt --verbose=1
-/usr/bin/c++  -std=c++17      -rdynamic CMakeFiles/cmTC_84bdb.dir/CheckSymbolExists.cxx.o  -o cmTC_84bdb 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-
-File /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
-/* */
-#include <functional>
-#include <tuple>
-
-int main(int argc, char** argv)
-{
-  (void)argv;
-#ifndef std::apply<std::negate<int>,std::tuple<int>>
-  return ((int*)(&std::apply<std::negate<int>,std::tuple<int>>))[argc];
-#else
-  (void)argc;
-  return 0;
-#endif
-}
-
-Determining if the std::experimental::make_array<int,int> exist passed with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
-
-Run Build Command:"/usr/bin/make" "cmTC_baf18/fast"
-/usr/bin/make -f CMakeFiles/cmTC_baf18.dir/build.make CMakeFiles/cmTC_baf18.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_baf18.dir/CheckSymbolExists.cxx.o
-/usr/bin/c++    -std=c++17   -fPIE   -o CMakeFiles/cmTC_baf18.dir/CheckSymbolExists.cxx.o -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
-/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:7:12: warning: extra tokens at end of #ifndef directive
- #ifndef std::experimental::make_array<int,int>
-            ^~
-Linking CXX executable cmTC_baf18
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_baf18.dir/link.txt --verbose=1
-/usr/bin/c++  -std=c++17      -rdynamic CMakeFiles/cmTC_baf18.dir/CheckSymbolExists.cxx.o  -o cmTC_baf18 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-
-File /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
-/* */
-#include <experimental/array>
-
-int main(int argc, char** argv)
-{
-  (void)argv;
-#ifndef std::experimental::make_array<int,int>
-  return ((int*)(&std::experimental::make_array<int,int>))[argc];
-#else
-  (void)argc;
-  return 0;
-#endif
-}
-
-Determining if the std::move<std::experimental::detected_t<std::decay_t,int>> exist passed with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
-
-Run Build Command:"/usr/bin/make" "cmTC_49cdd/fast"
-/usr/bin/make -f CMakeFiles/cmTC_49cdd.dir/build.make CMakeFiles/cmTC_49cdd.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_49cdd.dir/CheckSymbolExists.cxx.o
-/usr/bin/c++    -std=c++17   -fPIE   -o CMakeFiles/cmTC_49cdd.dir/CheckSymbolExists.cxx.o -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
-/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:12: warning: extra tokens at end of #ifndef directive
- #ifndef std::move<std::experimental::detected_t<std::decay_t,int>>
-            ^~
-Linking CXX executable cmTC_49cdd
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_49cdd.dir/link.txt --verbose=1
-/usr/bin/c++  -std=c++17      -rdynamic CMakeFiles/cmTC_49cdd.dir/CheckSymbolExists.cxx.o  -o cmTC_49cdd 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-
-File /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
-/* */
-#include <utility>
-#include <experimental/type_traits>
-
-int main(int argc, char** argv)
-{
-  (void)argv;
-#ifndef std::move<std::experimental::detected_t<std::decay_t,int>>
-  return ((int*)(&std::move<std::experimental::detected_t<std::decay_t,int>>))[argc];
-#else
-  (void)argc;
-  return 0;
-#endif
-}
-
 Performing C++ SOURCE FILE Test HAVE_CXA_DEMANGLE succeeded with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_54f34/fast"
-/usr/bin/make -f CMakeFiles/cmTC_54f34.dir/build.make CMakeFiles/cmTC_54f34.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_54f34.dir/src.cxx.o
-/usr/bin/c++    -std=c++17  -DHAVE_CXA_DEMANGLE -fPIE   -o CMakeFiles/cmTC_54f34.dir/src.cxx.o -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/src.cxx
-Linking CXX executable cmTC_54f34
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_54f34.dir/link.txt --verbose=1
-/usr/bin/c++  -std=c++17  -DHAVE_CXA_DEMANGLE    -rdynamic CMakeFiles/cmTC_54f34.dir/src.cxx.o  -o cmTC_54f34 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_2cbd9/fast"
+/usr/bin/make -f CMakeFiles/cmTC_2cbd9.dir/build.make CMakeFiles/cmTC_2cbd9.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_2cbd9.dir/src.cxx.o
+/usr/bin/c++    -std=c++14  -DHAVE_CXA_DEMANGLE   -o CMakeFiles/cmTC_2cbd9.dir/src.cxx.o -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_2cbd9
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2cbd9.dir/link.txt --verbose=1
+/usr/bin/c++   -std=c++14  -DHAVE_CXA_DEMANGLE    -rdynamic CMakeFiles/cmTC_2cbd9.dir/src.cxx.o  -o cmTC_2cbd9 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 Source file was:
 #include <typeinfo>
@@ -1383,113 +1112,113 @@ int main(void){
     char *demangled = abi::__cxa_demangle( foo, 0, 0, &status );
 }
 Verifying Fortran/CXX Compiler Compatibility passed with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX
 
 Run Build Command:"/usr/bin/make" "VerifyFortranC"
-/usr/bin/cmake -H/usr/share/cmake-3.10/Modules/FortranCInterface/Verify -B/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX --check-build-system CMakeFiles/Makefile.cmake 0
+/usr/bin/cmake -H/usr/share/cmake-3.10/Modules/FortranCInterface/Verify -B/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX --check-build-system CMakeFiles/Makefile.cmake 0
 /usr/bin/make -f CMakeFiles/Makefile2 VerifyFortranC
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
-/usr/bin/cmake -H/usr/share/cmake-3.10/Modules/FortranCInterface/Verify -B/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX --check-build-system CMakeFiles/Makefile.cmake 0
-/usr/bin/cmake -E cmake_progress_start /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX/CMakeFiles 6
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
+/usr/bin/cmake -H/usr/share/cmake-3.10/Modules/FortranCInterface/Verify -B/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX --check-build-system CMakeFiles/Makefile.cmake 0
+/usr/bin/cmake -E cmake_progress_start /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX/CMakeFiles 6
 /usr/bin/make -f CMakeFiles/Makefile2 CMakeFiles/VerifyFortranC.dir/all
-make[2]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
+make[2]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
 /usr/bin/make -f CMakeFiles/VerifyFortran.dir/build.make CMakeFiles/VerifyFortran.dir/depend
-make[3]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
-cd /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /usr/share/cmake-3.10/Modules/FortranCInterface/Verify /usr/share/cmake-3.10/Modules/FortranCInterface/Verify /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX/CMakeFiles/VerifyFortran.dir/DependInfo.cmake
+make[3]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
+cd /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /usr/share/cmake-3.10/Modules/FortranCInterface/Verify /usr/share/cmake-3.10/Modules/FortranCInterface/Verify /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX/CMakeFiles/VerifyFortran.dir/DependInfo.cmake
 Scanning dependencies of target VerifyFortran
-make[3]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
+make[3]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
 /usr/bin/make -f CMakeFiles/VerifyFortran.dir/build.make CMakeFiles/VerifyFortran.dir/requires
-make[3]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
+make[3]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
 make[3]: Nothing to be done for 'CMakeFiles/VerifyFortran.dir/requires'.
-make[3]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
+make[3]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
 /usr/bin/make -f CMakeFiles/VerifyFortran.dir/build.make CMakeFiles/VerifyFortran.dir/build
-make[3]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
+make[3]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
 [ 16%] Building Fortran object CMakeFiles/VerifyFortran.dir/VerifyFortran.f.o
-/usr/bin/gfortran -DVERIFY_CXX -I/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX  -O3 -DNDEBUG -O3   -c /usr/share/cmake-3.10/Modules/FortranCInterface/Verify/VerifyFortran.f -o CMakeFiles/VerifyFortran.dir/VerifyFortran.f.o
+/usr/bin/gfortran -DVERIFY_CXX -I/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX  -O3 -DNDEBUG -O3   -c /usr/share/cmake-3.10/Modules/FortranCInterface/Verify/VerifyFortran.f -o CMakeFiles/VerifyFortran.dir/VerifyFortran.f.o
 [ 33%] Linking Fortran static library libVerifyFortran.a
 /usr/bin/cmake -P CMakeFiles/VerifyFortran.dir/cmake_clean_target.cmake
 /usr/bin/cmake -E cmake_link_script CMakeFiles/VerifyFortran.dir/link.txt --verbose=1
 /usr/bin/ar qc libVerifyFortran.a  CMakeFiles/VerifyFortran.dir/VerifyFortran.f.o
 /usr/bin/ranlib libVerifyFortran.a
-make[3]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
+make[3]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
 [ 33%] Built target VerifyFortran
 /usr/bin/make -f CMakeFiles/VerifyFortranC.dir/build.make CMakeFiles/VerifyFortranC.dir/depend
-make[3]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
-cd /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /usr/share/cmake-3.10/Modules/FortranCInterface/Verify /usr/share/cmake-3.10/Modules/FortranCInterface/Verify /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX/CMakeFiles/VerifyFortranC.dir/DependInfo.cmake
+make[3]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
+cd /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /usr/share/cmake-3.10/Modules/FortranCInterface/Verify /usr/share/cmake-3.10/Modules/FortranCInterface/Verify /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX/CMakeFiles/VerifyFortranC.dir/DependInfo.cmake
 Scanning dependencies of target VerifyFortranC
-make[3]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
+make[3]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
 /usr/bin/make -f CMakeFiles/VerifyFortranC.dir/build.make CMakeFiles/VerifyFortranC.dir/build
-make[3]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
+make[3]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
 [ 50%] Building C object CMakeFiles/VerifyFortranC.dir/main.c.o
-/usr/bin/cc -DVERIFY_CXX -I/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX  -O3 -DNDEBUG   -o CMakeFiles/VerifyFortranC.dir/main.c.o   -c /usr/share/cmake-3.10/Modules/FortranCInterface/Verify/main.c
+/usr/bin/cc -DVERIFY_CXX -I/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX  -O3 -DNDEBUG   -o CMakeFiles/VerifyFortranC.dir/main.c.o   -c /usr/share/cmake-3.10/Modules/FortranCInterface/Verify/main.c
 [ 66%] Building C object CMakeFiles/VerifyFortranC.dir/VerifyC.c.o
-/usr/bin/cc -DVERIFY_CXX -I/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX  -O3 -DNDEBUG   -o CMakeFiles/VerifyFortranC.dir/VerifyC.c.o   -c /usr/share/cmake-3.10/Modules/FortranCInterface/Verify/VerifyC.c
+/usr/bin/cc -DVERIFY_CXX -I/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX  -O3 -DNDEBUG   -o CMakeFiles/VerifyFortranC.dir/VerifyC.c.o   -c /usr/share/cmake-3.10/Modules/FortranCInterface/Verify/VerifyC.c
 [ 83%] Building CXX object CMakeFiles/VerifyFortranC.dir/VerifyCXX.cxx.o
-/usr/bin/c++  -DVERIFY_CXX -I/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX  -std=c++17 -O3 -DNDEBUG   -o CMakeFiles/VerifyFortranC.dir/VerifyCXX.cxx.o -c /usr/share/cmake-3.10/Modules/FortranCInterface/Verify/VerifyCXX.cxx
+/usr/bin/c++  -DVERIFY_CXX -I/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX  -std=c++14 -O3 -DNDEBUG   -o CMakeFiles/VerifyFortranC.dir/VerifyCXX.cxx.o -c /usr/share/cmake-3.10/Modules/FortranCInterface/Verify/VerifyCXX.cxx
 [100%] Linking CXX executable VerifyFortranC
 /usr/bin/cmake -E cmake_link_script CMakeFiles/VerifyFortranC.dir/link.txt --verbose=1
-/usr/bin/c++  -std=c++17 -O3 -DNDEBUG   CMakeFiles/VerifyFortranC.dir/main.c.o CMakeFiles/VerifyFortranC.dir/VerifyC.c.o CMakeFiles/VerifyFortranC.dir/VerifyCXX.cxx.o  -o VerifyFortranC libVerifyFortran.a -lgfortran -lquadmath 
-make[3]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
+/usr/bin/c++   -std=c++14 -O3 -DNDEBUG   CMakeFiles/VerifyFortranC.dir/main.c.o CMakeFiles/VerifyFortranC.dir/VerifyC.c.o CMakeFiles/VerifyFortranC.dir/VerifyCXX.cxx.o  -o VerifyFortranC libVerifyFortran.a -lgfortran -lquadmath 
+make[3]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
 [100%] Built target VerifyFortranC
-make[2]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
-/usr/bin/cmake -E cmake_progress_start /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX/CMakeFiles 0
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
+make[2]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
+/usr/bin/cmake -E cmake_progress_start /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX/CMakeFiles 0
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX'
 
 
 Determining if the Fortran sgemm exists passed with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_92c98/fast"
-/usr/bin/make -f CMakeFiles/cmTC_92c98.dir/build.make CMakeFiles/cmTC_92c98.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building Fortran object CMakeFiles/cmTC_92c98.dir/testFortranCompiler.f.o
-/usr/bin/gfortran   -O3 -DNDEBUG -O3 -fPIE   -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/testFortranCompiler.f -o CMakeFiles/cmTC_92c98.dir/testFortranCompiler.f.o
-Linking Fortran executable cmTC_92c98
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_92c98.dir/link.txt --verbose=1
-/usr/bin/gfortran      -O3 -DNDEBUG -O3 CMakeFiles/cmTC_92c98.dir/testFortranCompiler.f.o  -o cmTC_92c98 /usr/lib/x86_64-linux-gnu/libblas.so 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_fb326/fast"
+/usr/bin/make -f CMakeFiles/cmTC_fb326.dir/build.make CMakeFiles/cmTC_fb326.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building Fortran object CMakeFiles/cmTC_fb326.dir/testFortranCompiler.f.o
+/usr/bin/gfortran   -O3 -DNDEBUG -O3   -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp/testFortranCompiler.f -o CMakeFiles/cmTC_fb326.dir/testFortranCompiler.f.o
+Linking Fortran executable cmTC_fb326
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fb326.dir/link.txt --verbose=1
+/usr/bin/gfortran      -O3 -DNDEBUG -O3 CMakeFiles/cmTC_fb326.dir/testFortranCompiler.f.o  -o cmTC_fb326 /usr/lib/x86_64-linux-gnu/libblas.so 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 
 Determining if the Fortran cheev exists passed with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_dbaad/fast"
-/usr/bin/make -f CMakeFiles/cmTC_dbaad.dir/build.make CMakeFiles/cmTC_dbaad.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building Fortran object CMakeFiles/cmTC_dbaad.dir/testFortranCompiler.f.o
-/usr/bin/gfortran   -O3 -DNDEBUG -O3 -fPIE   -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/testFortranCompiler.f -o CMakeFiles/cmTC_dbaad.dir/testFortranCompiler.f.o
-Linking Fortran executable cmTC_dbaad
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_dbaad.dir/link.txt --verbose=1
-/usr/bin/gfortran      -O3 -DNDEBUG -O3 CMakeFiles/cmTC_dbaad.dir/testFortranCompiler.f.o  -o cmTC_dbaad /usr/lib/x86_64-linux-gnu/liblapack.so /usr/lib/x86_64-linux-gnu/libblas.so 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_882db/fast"
+/usr/bin/make -f CMakeFiles/cmTC_882db.dir/build.make CMakeFiles/cmTC_882db.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building Fortran object CMakeFiles/cmTC_882db.dir/testFortranCompiler.f.o
+/usr/bin/gfortran   -O3 -DNDEBUG -O3   -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp/testFortranCompiler.f -o CMakeFiles/cmTC_882db.dir/testFortranCompiler.f.o
+Linking Fortran executable cmTC_882db
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_882db.dir/link.txt --verbose=1
+/usr/bin/gfortran      -O3 -DNDEBUG -O3 CMakeFiles/cmTC_882db.dir/testFortranCompiler.f.o  -o cmTC_882db /usr/lib/x86_64-linux-gnu/liblapack.so /usr/lib/x86_64-linux-gnu/libblas.so 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 
 Determining if the include file sys/mman.h exists passed with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_dc596/fast"
-/usr/bin/make -f CMakeFiles/cmTC_dc596.dir/build.make CMakeFiles/cmTC_dc596.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_dc596.dir/CheckIncludeFile.c.o
-/usr/bin/cc   -O3 -DNDEBUG -fPIE   -o CMakeFiles/cmTC_dc596.dir/CheckIncludeFile.c.o   -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-Linking C executable cmTC_dc596
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_dc596.dir/link.txt --verbose=1
-/usr/bin/cc   -O3 -DNDEBUG    -rdynamic CMakeFiles/cmTC_dc596.dir/CheckIncludeFile.c.o  -o cmTC_dc596 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_3c158/fast"
+/usr/bin/make -f CMakeFiles/cmTC_3c158.dir/build.make CMakeFiles/cmTC_3c158.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_3c158.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -O3 -DNDEBUG   -o CMakeFiles/cmTC_3c158.dir/CheckIncludeFile.c.o   -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_3c158
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3c158.dir/link.txt --verbose=1
+/usr/bin/cc   -O3 -DNDEBUG    -rdynamic CMakeFiles/cmTC_3c158.dir/CheckIncludeFile.c.o  -o cmTC_3c158 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 
 Performing C SOURCE FILE Test HAVE_MPROTECT succeeded with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_5b8ab/fast"
-/usr/bin/make -f CMakeFiles/cmTC_5b8ab.dir/build.make CMakeFiles/cmTC_5b8ab.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_5b8ab.dir/src.c.o
-/usr/bin/cc   -DHAVE_MPROTECT -O3 -DNDEBUG -fPIE   -o CMakeFiles/cmTC_5b8ab.dir/src.c.o   -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/src.c
-Linking C executable cmTC_5b8ab
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5b8ab.dir/link.txt --verbose=1
-/usr/bin/cc  -DHAVE_MPROTECT -O3 -DNDEBUG    -rdynamic CMakeFiles/cmTC_5b8ab.dir/src.c.o  -o cmTC_5b8ab 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_5c12e/fast"
+/usr/bin/make -f CMakeFiles/cmTC_5c12e.dir/build.make CMakeFiles/cmTC_5c12e.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5c12e.dir/src.c.o
+/usr/bin/cc   -DHAVE_MPROTECT -O3 -DNDEBUG   -o CMakeFiles/cmTC_5c12e.dir/src.c.o   -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_5c12e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5c12e.dir/link.txt --verbose=1
+/usr/bin/cc  -DHAVE_MPROTECT -O3 -DNDEBUG    -rdynamic CMakeFiles/cmTC_5c12e.dir/src.c.o  -o cmTC_5c12e 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 Source file was:
 
@@ -1497,32 +1226,92 @@ Source file was:
 int main(void){
   mprotect(0,0,PROT_NONE);
 }
-Determining if the include file rpc/rpc.h exists passed with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Performing C SOURCE FILE Test SUPERLU_MIN_VERSION_4 succeeded with the following output:
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_ecb3f/fast"
-/usr/bin/make -f CMakeFiles/cmTC_ecb3f.dir/build.make CMakeFiles/cmTC_ecb3f.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_ecb3f.dir/CheckIncludeFile.c.o
-/usr/bin/cc   -O3 -DNDEBUG -fPIE   -o CMakeFiles/cmTC_ecb3f.dir/CheckIncludeFile.c.o   -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-Linking C executable cmTC_ecb3f
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ecb3f.dir/link.txt --verbose=1
-/usr/bin/cc   -O3 -DNDEBUG    -rdynamic CMakeFiles/cmTC_ecb3f.dir/CheckIncludeFile.c.o  -o cmTC_ecb3f 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_505bc/fast"
+/usr/bin/make -f CMakeFiles/cmTC_505bc.dir/build.make CMakeFiles/cmTC_505bc.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_505bc.dir/src.c.o
+/usr/bin/cc  -I/usr/include/superlu  -DSUPERLU_MIN_VERSION_4 -O3 -DNDEBUG   -o CMakeFiles/cmTC_505bc.dir/src.c.o   -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_505bc
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_505bc.dir/link.txt --verbose=1
+/usr/bin/cc  -DSUPERLU_MIN_VERSION_4 -O3 -DNDEBUG    -rdynamic CMakeFiles/cmTC_505bc.dir/src.c.o  -o cmTC_505bc /usr/lib/x86_64-linux-gnu/libsuperlu.so /usr/lib/x86_64-linux-gnu/libblas.so 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
+Source file was:
+
+typedef int int_t;
+#include <supermatrix.h>
+#include <slu_util.h>
+int main()
+{
+  SuperLUStat_t stat;
+  stat.expansions=8;
+  return 0;
+}
+Performing C SOURCE FILE Test SUPERLU_MIN_VERSION_4_3 succeeded with the following output:
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_41233/fast"
+/usr/bin/make -f CMakeFiles/cmTC_41233.dir/build.make CMakeFiles/cmTC_41233.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_41233.dir/src.c.o
+/usr/bin/cc  -I/usr/include/superlu  -DSUPERLU_MIN_VERSION_4_3 -O3 -DNDEBUG   -o CMakeFiles/cmTC_41233.dir/src.c.o   -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_41233
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_41233.dir/link.txt --verbose=1
+/usr/bin/cc  -DSUPERLU_MIN_VERSION_4_3 -O3 -DNDEBUG    -rdynamic CMakeFiles/cmTC_41233.dir/src.c.o  -o cmTC_41233 /usr/lib/x86_64-linux-gnu/libsuperlu.so /usr/lib/x86_64-linux-gnu/libblas.so 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+
+Source file was:
+
+#include <slu_ddefs.h>
+int main(void)
+{
+  return SLU_DOUBLE;
+}
+Performing C SOURCE FILE Test SUPERLU_MIN_VERSION_5 succeeded with the following output:
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_aac6e/fast"
+/usr/bin/make -f CMakeFiles/cmTC_aac6e.dir/build.make CMakeFiles/cmTC_aac6e.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_aac6e.dir/src.c.o
+/usr/bin/cc  -I/usr/include/superlu  -DSUPERLU_MIN_VERSION_5 -O3 -DNDEBUG   -o CMakeFiles/cmTC_aac6e.dir/src.c.o   -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_aac6e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_aac6e.dir/link.txt --verbose=1
+/usr/bin/cc  -DSUPERLU_MIN_VERSION_5 -O3 -DNDEBUG    -rdynamic CMakeFiles/cmTC_aac6e.dir/src.c.o  -o cmTC_aac6e /usr/lib/x86_64-linux-gnu/libsuperlu.so /usr/lib/x86_64-linux-gnu/libblas.so 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+
+Source file was:
+
+typedef int int_t;
+#include <supermatrix.h>
+#include <slu_util.h>
+int main(void)
+{
+  GlobalLU_t glu;
+  return 0;
+}
+Determining location of SuperLU >= 5.0 succeeded:
+Include directory: /usr/include/superlu
+Library directory: /usr/lib/x86_64-linux-gnu/libsuperlu.so
+
+Determing location of ARPACK succeeded:
+Libraries to link against: /usr/lib/x86_64-linux-gnu/libarpack.so
 
 Performing C SOURCE FILE Test SUITESPARSE_MIN_VERSION_4_3 succeeded with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_d622e/fast"
-/usr/bin/make -f CMakeFiles/cmTC_d622e.dir/build.make CMakeFiles/cmTC_d622e.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_d622e.dir/src.c.o
-/usr/bin/cc  -I/usr/include/suitesparse  -DSUITESPARSE_MIN_VERSION_4_3 -O3 -DNDEBUG -fPIE   -o CMakeFiles/cmTC_d622e.dir/src.c.o   -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/src.c
-Linking C executable cmTC_d622e
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d622e.dir/link.txt --verbose=1
-/usr/bin/cc  -DSUITESPARSE_MIN_VERSION_4_3 -O3 -DNDEBUG    -rdynamic CMakeFiles/cmTC_d622e.dir/src.c.o  -o cmTC_d622e /usr/lib/x86_64-linux-gnu/libcholmod.so /usr/lib/x86_64-linux-gnu/libamd.so /usr/lib/x86_64-linux-gnu/libcolamd.so /usr/lib/x86_64-linux-gnu/libcamd.so /usr/lib/x86_64-linux-gnu/libccolamd.so /usr/lib/x86_64-linux-gnu/libldl.so /usr/lib/x86_64-linux-gnu/libspqr.so /usr/lib/x86_64-linux-gnu/libumfpack.so /usr/lib/x86_64-linux-gnu/libcholmod.so /usr/lib/x86_64-linux-gnu/libamd.so /usr/lib/x86_64-linux-gnu/libcolamd.so /usr/lib/x86_64-linux-gnu/libcamd.so /usr/lib/x86_64-linux-gnu/libccolamd.so /usr/lib/x86_64-linux-gnu/libamd.so /usr/lib/x86_64-linux-gnu/libcamd.so /usr/lib/x86_64-linux-gnu/libcolamd.so /usr/lib/x86_64-linux-gnu/libccolamd.so /usr/lib/x86_64-linux-gnu/libldl.so /usr/lib/x86_64-linux-gnu/libspqr.so /usr/lib/x86_64-linux-gnu/libumfpack.so 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_1226d/fast"
+/usr/bin/make -f CMakeFiles/cmTC_1226d.dir/build.make CMakeFiles/cmTC_1226d.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1226d.dir/src.c.o
+/usr/bin/cc  -I/usr/include/suitesparse  -DSUITESPARSE_MIN_VERSION_4_3 -O3 -DNDEBUG   -o CMakeFiles/cmTC_1226d.dir/src.c.o   -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_1226d
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1226d.dir/link.txt --verbose=1
+/usr/bin/cc  -DSUITESPARSE_MIN_VERSION_4_3 -O3 -DNDEBUG    -rdynamic CMakeFiles/cmTC_1226d.dir/src.c.o  -o cmTC_1226d /usr/lib/x86_64-linux-gnu/libldl.so /usr/lib/x86_64-linux-gnu/libspqr.so /usr/lib/x86_64-linux-gnu/libumfpack.so /usr/lib/x86_64-linux-gnu/libcholmod.so /usr/lib/x86_64-linux-gnu/libamd.so /usr/lib/x86_64-linux-gnu/libcolamd.so /usr/lib/x86_64-linux-gnu/libcamd.so /usr/lib/x86_64-linux-gnu/libccolamd.so /usr/lib/x86_64-linux-gnu/libamd.so /usr/lib/x86_64-linux-gnu/libcholmod.so /usr/lib/x86_64-linux-gnu/libamd.so /usr/lib/x86_64-linux-gnu/libcolamd.so /usr/lib/x86_64-linux-gnu/libcamd.so /usr/lib/x86_64-linux-gnu/libccolamd.so /usr/lib/x86_64-linux-gnu/libcamd.so /usr/lib/x86_64-linux-gnu/libcolamd.so /usr/lib/x86_64-linux-gnu/libccolamd.so /usr/lib/x86_64-linux-gnu/libcholmod.so /usr/lib/x86_64-linux-gnu/libamd.so /usr/lib/x86_64-linux-gnu/libcholmod.so /usr/lib/x86_64-linux-gnu/libamd.so /usr/lib/x86_64-linux-gnu/libcolamd.so /usr/lib/x86_64-linux-gnu/libcamd.so /usr/lib/x86_64-linux-gnu/libccolamd.so 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 Source file was:
 
@@ -1541,46 +1330,146 @@ Determining location of SuiteSparse succeeded:
 Include directory: /usr/include/suitesparse
 Library directory: /usr/lib/x86_64-linux-gnu/libldl.so;/usr/lib/x86_64-linux-gnu/libspqr.so;/usr/lib/x86_64-linux-gnu/libumfpack.so;/usr/lib/x86_64-linux-gnu/libcholmod.so;/usr/lib/x86_64-linux-gnu/libamd.so;/usr/lib/x86_64-linux-gnu/libcamd.so;/usr/lib/x86_64-linux-gnu/libcolamd.so;/usr/lib/x86_64-linux-gnu/libccolamd.so;/usr/lib/x86_64-linux-gnu/libsuitesparseconfig.so
 
-Determining if the function mkstemp exists passed with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Performing C++ SOURCE FILE Test HAVE_TEMPLATE_ALIASES succeeded with the following output:
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_c2414/fast"
-/usr/bin/make -f CMakeFiles/cmTC_c2414.dir/build.make CMakeFiles/cmTC_c2414.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_c2414.dir/CheckFunctionExists.c.o
-/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=mkstemp -O3 -DNDEBUG -fPIE   -o CMakeFiles/cmTC_c2414.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
-Linking C executable cmTC_c2414
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c2414.dir/link.txt --verbose=1
-/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=mkstemp -O3 -DNDEBUG    -rdynamic CMakeFiles/cmTC_c2414.dir/CheckFunctionExists.c.o  -o cmTC_c2414 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_f4677/fast"
+/usr/bin/make -f CMakeFiles/cmTC_f4677.dir/build.make CMakeFiles/cmTC_f4677.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_f4677.dir/src.cxx.o
+/usr/bin/c++    -std=c++14  -DHAVE_TEMPLATE_ALIASES -O3 -DNDEBUG   -o CMakeFiles/cmTC_f4677.dir/src.cxx.o -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_f4677
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f4677.dir/link.txt --verbose=1
+/usr/bin/c++   -std=c++14  -DHAVE_TEMPLATE_ALIASES -O3 -DNDEBUG    -rdynamic CMakeFiles/cmTC_f4677.dir/src.cxx.o  -o cmTC_f4677 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+
+Source file was:
+
+  template<typename T, typename U>
+  struct A
+  {};
+
+  template<typename T>
+  using A1 = A<T,int>;
+
+  template<typename U>
+  using A2 = A<int,U>;
+
+  template<typename T, typename U>
+  struct assert_equal;
+
+  template<typename T>
+  struct assert_equal<T,T>
+  {};
+
+  int main()
+  {
+    assert_equal<A1<int>,A2<int> >();
+    assert_equal<A<bool,int>,A1<bool> >();
+    return 0;
+  }
+Performing C++ SOURCE FILE Test HAVE_STD_DECLTYPE succeeded with the following output:
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_cb2cc/fast"
+/usr/bin/make -f CMakeFiles/cmTC_cb2cc.dir/build.make CMakeFiles/cmTC_cb2cc.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_cb2cc.dir/src.cxx.o
+/usr/bin/c++    -std=c++14  -DHAVE_STD_DECLTYPE -O3 -DNDEBUG   -o CMakeFiles/cmTC_cb2cc.dir/src.cxx.o -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_cb2cc
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cb2cc.dir/link.txt --verbose=1
+/usr/bin/c++   -std=c++14  -DHAVE_STD_DECLTYPE -O3 -DNDEBUG    -rdynamic CMakeFiles/cmTC_cb2cc.dir/src.cxx.o  -o cmTC_cb2cc 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+
+Source file was:
+
+  template<typename A, typename B>
+  struct check_equal;
+
+  template<typename A>
+  struct check_equal<A,A>
+  {
+    static const int result = 0;
+  };
+
+  struct A;
+
+  const A& foo();
+
+  int main(void){
+      return check_equal<decltype(foo()),const A&>::result;
+  }
+Performing C++ SOURCE FILE Test HAVE_GCC___TYPEOF__ succeeded with the following output:
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_cd8e3/fast"
+/usr/bin/make -f CMakeFiles/cmTC_cd8e3.dir/build.make CMakeFiles/cmTC_cd8e3.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_cd8e3.dir/src.cxx.o
+/usr/bin/c++    -std=c++14  -DHAVE_GCC___TYPEOF__ -O3 -DNDEBUG   -o CMakeFiles/cmTC_cd8e3.dir/src.cxx.o -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTC_cd8e3
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cd8e3.dir/link.txt --verbose=1
+/usr/bin/c++   -std=c++14  -DHAVE_GCC___TYPEOF__ -O3 -DNDEBUG    -rdynamic CMakeFiles/cmTC_cd8e3.dir/src.cxx.o  -o cmTC_cd8e3 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+
+Source file was:
+
+  template<typename A, typename B>
+  struct check_equal;
+
+  template<typename A>
+  struct check_equal<A,A>
+  {
+    static const int result = 0;
+  };
+
+  struct A {};
+
+  A foo();
+
+  int main(void){
+      return check_equal<__typeof__(foo()),A>::result;
+  }
+Determining if the function mkstemp exists passed with the following output:
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_2a98f/fast"
+/usr/bin/make -f CMakeFiles/cmTC_2a98f.dir/build.make CMakeFiles/cmTC_2a98f.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_2a98f.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=mkstemp -O3 -DNDEBUG   -o CMakeFiles/cmTC_2a98f.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_2a98f
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2a98f.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=mkstemp -O3 -DNDEBUG    -rdynamic CMakeFiles/cmTC_2a98f.dir/CheckFunctionExists.c.o  -o cmTC_2a98f 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 
 Determining if files alberta/alberta.h exist passed with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_dc68c/fast"
-/usr/bin/make -f CMakeFiles/cmTC_dc68c.dir/build.make CMakeFiles/cmTC_dc68c.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_dc68c.dir/CheckIncludeFiles.c.o
-/usr/bin/cc -DDEL_INDEX=0 -DDIM_OF_WORLD=3 -I/usr/include/alberta  -O3 -DNDEBUG -fPIE   -o CMakeFiles/cmTC_dc68c.dir/CheckIncludeFiles.c.o   -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
-Linking C executable cmTC_dc68c
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_dc68c.dir/link.txt --verbose=1
-/usr/bin/cc   -O3 -DNDEBUG    -rdynamic CMakeFiles/cmTC_dc68c.dir/CheckIncludeFiles.c.o  -o cmTC_dc68c 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_f6b6d/fast"
+/usr/bin/make -f CMakeFiles/cmTC_f6b6d.dir/build.make CMakeFiles/cmTC_f6b6d.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f6b6d.dir/CheckIncludeFiles.c.o
+/usr/bin/cc -DDEL_INDEX=0 -DDIM_OF_WORLD=3 -I/usr/include/alberta  -O3 -DNDEBUG   -o CMakeFiles/cmTC_f6b6d.dir/CheckIncludeFiles.c.o   -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+Linking C executable cmTC_f6b6d
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f6b6d.dir/link.txt --verbose=1
+/usr/bin/cc   -O3 -DNDEBUG    -rdynamic CMakeFiles/cmTC_f6b6d.dir/CheckIncludeFiles.c.o  -o cmTC_f6b6d 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 
 Performing C SOURCE FILE Test ALBERTA_IS_VERSION_3 succeeded with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_b992e/fast"
-/usr/bin/make -f CMakeFiles/cmTC_b992e.dir/build.make CMakeFiles/cmTC_b992e.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_b992e.dir/src.c.o
-/usr/bin/cc -DDEL_INDEX=0 -DDIM_OF_WORLD=3 -I/usr/include/alberta  -DALBERTA_IS_VERSION_3 -O3 -DNDEBUG -fPIE   -o CMakeFiles/cmTC_b992e.dir/src.c.o   -c /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp/src.c
-Linking C executable cmTC_b992e
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b992e.dir/link.txt --verbose=1
-/usr/bin/cc  -DALBERTA_IS_VERSION_3 -O3 -DNDEBUG    -rdynamic CMakeFiles/cmTC_b992e.dir/src.c.o  -o cmTC_b992e 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_d1907/fast"
+/usr/bin/make -f CMakeFiles/cmTC_d1907.dir/build.make CMakeFiles/cmTC_d1907.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d1907.dir/src.c.o
+/usr/bin/cc -DDEL_INDEX=0 -DDIM_OF_WORLD=3 -I/usr/include/alberta  -DALBERTA_IS_VERSION_3 -O3 -DNDEBUG   -o CMakeFiles/cmTC_d1907.dir/src.c.o   -c /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_d1907
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d1907.dir/link.txt --verbose=1
+/usr/bin/cc  -DALBERTA_IS_VERSION_3 -O3 -DNDEBUG    -rdynamic CMakeFiles/cmTC_d1907.dir/src.c.o  -o cmTC_d1907 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 Source file was:
 
@@ -1593,62 +1482,58 @@ int main()
 }
 
 Determining if the function alberta_calloc exists in the /usr/lib/x86_64-linux-gnu/libalberta_utilities.so passed with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_58ece/fast"
-/usr/bin/make -f CMakeFiles/cmTC_58ece.dir/build.make CMakeFiles/cmTC_58ece.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_58ece.dir/CheckFunctionExists.c.o
-/usr/bin/cc -DDEL_INDEX=0 -DDIM_OF_WORLD=3  -DCHECK_FUNCTION_EXISTS=alberta_calloc -O3 -DNDEBUG -fPIE   -o CMakeFiles/cmTC_58ece.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
-Linking C executable cmTC_58ece
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_58ece.dir/link.txt --verbose=1
-/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=alberta_calloc -O3 -DNDEBUG    -rdynamic CMakeFiles/cmTC_58ece.dir/CheckFunctionExists.c.o  -o cmTC_58ece /usr/lib/x86_64-linux-gnu/libalberta_utilities.so /usr/lib/x86_64-linux-gnu/libalberta_utilities.so 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_4502d/fast"
+/usr/bin/make -f CMakeFiles/cmTC_4502d.dir/build.make CMakeFiles/cmTC_4502d.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_4502d.dir/CheckFunctionExists.c.o
+/usr/bin/cc -DDEL_INDEX=0 -DDIM_OF_WORLD=3  -DCHECK_FUNCTION_EXISTS=alberta_calloc -O3 -DNDEBUG   -o CMakeFiles/cmTC_4502d.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_4502d
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4502d.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=alberta_calloc -O3 -DNDEBUG    -rdynamic CMakeFiles/cmTC_4502d.dir/CheckFunctionExists.c.o  -o cmTC_4502d /usr/lib/x86_64-linux-gnu/libalberta_utilities.so /usr/lib/x86_64-linux-gnu/libalberta_utilities.so 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 
 Determining if the function mesh_traverse exists in the /usr/lib/x86_64-linux-gnu/libalberta_1d.so passed with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_d9225/fast"
-/usr/bin/make -f CMakeFiles/cmTC_d9225.dir/build.make CMakeFiles/cmTC_d9225.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_d9225.dir/CheckFunctionExists.c.o
-/usr/bin/cc -DDEL_INDEX=0 -DDIM_OF_WORLD=3  -DCHECK_FUNCTION_EXISTS=mesh_traverse -O3 -DNDEBUG -fPIE   -o CMakeFiles/cmTC_d9225.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
-Linking C executable cmTC_d9225
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d9225.dir/link.txt --verbose=1
-/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=mesh_traverse -O3 -DNDEBUG    -rdynamic CMakeFiles/cmTC_d9225.dir/CheckFunctionExists.c.o  -o cmTC_d9225 /usr/lib/x86_64-linux-gnu/libalberta_1d.so /usr/lib/x86_64-linux-gnu/libalberta_utilities.so -lm 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_57032/fast"
+/usr/bin/make -f CMakeFiles/cmTC_57032.dir/build.make CMakeFiles/cmTC_57032.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_57032.dir/CheckFunctionExists.c.o
+/usr/bin/cc -DDEL_INDEX=0 -DDIM_OF_WORLD=3  -DCHECK_FUNCTION_EXISTS=mesh_traverse -O3 -DNDEBUG   -o CMakeFiles/cmTC_57032.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_57032
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_57032.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=mesh_traverse -O3 -DNDEBUG    -rdynamic CMakeFiles/cmTC_57032.dir/CheckFunctionExists.c.o  -o cmTC_57032 /usr/lib/x86_64-linux-gnu/libalberta_1d.so /usr/lib/x86_64-linux-gnu/libalberta_utilities.so /usr/lib/x86_64-linux-gnu/libalberta_utilities.so -lm -lltdl 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 
 Determining if the function mesh_traverse exists in the /usr/lib/x86_64-linux-gnu/libalberta_2d.so passed with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_19d11/fast"
-/usr/bin/make -f CMakeFiles/cmTC_19d11.dir/build.make CMakeFiles/cmTC_19d11.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_19d11.dir/CheckFunctionExists.c.o
-/usr/bin/cc -DDEL_INDEX=0 -DDIM_OF_WORLD=3  -DCHECK_FUNCTION_EXISTS=mesh_traverse -O3 -DNDEBUG -fPIE   -o CMakeFiles/cmTC_19d11.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
-Linking C executable cmTC_19d11
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_19d11.dir/link.txt --verbose=1
-/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=mesh_traverse -O3 -DNDEBUG    -rdynamic CMakeFiles/cmTC_19d11.dir/CheckFunctionExists.c.o  -o cmTC_19d11 /usr/lib/x86_64-linux-gnu/libalberta_2d.so /usr/lib/x86_64-linux-gnu/libalberta_utilities.so -lm 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_5dfd6/fast"
+/usr/bin/make -f CMakeFiles/cmTC_5dfd6.dir/build.make CMakeFiles/cmTC_5dfd6.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5dfd6.dir/CheckFunctionExists.c.o
+/usr/bin/cc -DDEL_INDEX=0 -DDIM_OF_WORLD=3  -DCHECK_FUNCTION_EXISTS=mesh_traverse -O3 -DNDEBUG   -o CMakeFiles/cmTC_5dfd6.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_5dfd6
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5dfd6.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=mesh_traverse -O3 -DNDEBUG    -rdynamic CMakeFiles/cmTC_5dfd6.dir/CheckFunctionExists.c.o  -o cmTC_5dfd6 /usr/lib/x86_64-linux-gnu/libalberta_2d.so /usr/lib/x86_64-linux-gnu/libalberta_utilities.so /usr/lib/x86_64-linux-gnu/libalberta_utilities.so -lm -lltdl 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
 
 Determining if the function mesh_traverse exists in the /usr/lib/x86_64-linux-gnu/libalberta_3d.so passed with the following output:
-Change Dir: /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp
+Change Dir: /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_6527f/fast"
-/usr/bin/make -f CMakeFiles/cmTC_6527f.dir/build.make CMakeFiles/cmTC_6527f.dir/build
-make[1]: Entering directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_6527f.dir/CheckFunctionExists.c.o
-/usr/bin/cc -DDEL_INDEX=0 -DDIM_OF_WORLD=3  -DCHECK_FUNCTION_EXISTS=mesh_traverse -O3 -DNDEBUG -fPIE   -o CMakeFiles/cmTC_6527f.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
-Linking C executable cmTC_6527f
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6527f.dir/link.txt --verbose=1
-/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=mesh_traverse -O3 -DNDEBUG    -rdynamic CMakeFiles/cmTC_6527f.dir/CheckFunctionExists.c.o  -o cmTC_6527f /usr/lib/x86_64-linux-gnu/libalberta_3d.so /usr/lib/x86_64-linux-gnu/libalberta_utilities.so -lm 
-make[1]: Leaving directory '/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_81000/fast"
+/usr/bin/make -f CMakeFiles/cmTC_81000.dir/build.make CMakeFiles/cmTC_81000.dir/build
+make[1]: Entering directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_81000.dir/CheckFunctionExists.c.o
+/usr/bin/cc -DDEL_INDEX=0 -DDIM_OF_WORLD=3  -DCHECK_FUNCTION_EXISTS=mesh_traverse -O3 -DNDEBUG   -o CMakeFiles/cmTC_81000.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_81000
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_81000.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=mesh_traverse -O3 -DNDEBUG    -rdynamic CMakeFiles/cmTC_81000.dir/CheckFunctionExists.c.o  -o cmTC_81000 /usr/lib/x86_64-linux-gnu/libalberta_3d.so /usr/lib/x86_64-linux-gnu/libalberta_utilities.so /usr/lib/x86_64-linux-gnu/libalberta_utilities.so -lm -lltdl 
+make[1]: Leaving directory '/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/CMakeTmp'
 
-
-Determining location of SuiteSparse succeeded:
-Include directory: /usr/include/suitesparse
-Library directory: /usr/lib/x86_64-linux-gnu/libldl.so;/usr/lib/x86_64-linux-gnu/libspqr.so;/usr/lib/x86_64-linux-gnu/libumfpack.so;/usr/lib/x86_64-linux-gnu/libcholmod.so;/usr/lib/x86_64-linux-gnu/libamd.so;/usr/lib/x86_64-linux-gnu/libcamd.so;/usr/lib/x86_64-linux-gnu/libcolamd.so;/usr/lib/x86_64-linux-gnu/libccolamd.so;/usr/lib/x86_64-linux-gnu/libsuitesparseconfig.so
 

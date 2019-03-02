@@ -1,1 +1,1 @@
-add_subdirectory(howto-adaptive-grid-multilevel-quad)
+add_subdirectory(adaptivegridinterface-multilevelquadrature)

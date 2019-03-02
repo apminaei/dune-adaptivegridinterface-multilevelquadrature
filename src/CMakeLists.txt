@@ -1,0 +1,2 @@
+add_executable("dune-adaptivegridinterface-multilevelquadrature" dune-adaptivegridinterface-multilevelquadrature.cc)
+target_link_dune_default_libraries("dune-adaptivegridinterface-multilevelquadrature")

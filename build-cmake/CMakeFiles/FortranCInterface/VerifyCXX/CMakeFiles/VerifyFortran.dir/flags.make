@@ -6,5 +6,5 @@ Fortran_FLAGS = -O3 -DNDEBUG -O3
 
 Fortran_DEFINES = -DVERIFY_CXX
 
-Fortran_INCLUDES = -I/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX 
+Fortran_INCLUDES = -I/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/VerifyCXX 
 

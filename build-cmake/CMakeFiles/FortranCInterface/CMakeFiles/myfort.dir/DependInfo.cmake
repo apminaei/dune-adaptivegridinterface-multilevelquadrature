@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_Fortran
-  "/usr/share/cmake-3.10/Modules/FortranCInterface/my_module.f90" "/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/CMakeFiles/myfort.dir/my_module.f90.o"
-  "/usr/share/cmake-3.10/Modules/FortranCInterface/my_sub.f" "/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/CMakeFiles/myfort.dir/my_sub.f.o"
-  "/usr/share/cmake-3.10/Modules/FortranCInterface/mymodule.f90" "/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/CMakeFiles/myfort.dir/mymodule.f90.o"
-  "/usr/share/cmake-3.10/Modules/FortranCInterface/mysub.f" "/home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/FortranCInterface/CMakeFiles/myfort.dir/mysub.f.o"
+  "/usr/share/cmake-3.10/Modules/FortranCInterface/my_module.f90" "/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/CMakeFiles/myfort.dir/my_module.f90.o"
+  "/usr/share/cmake-3.10/Modules/FortranCInterface/my_sub.f" "/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/CMakeFiles/myfort.dir/my_sub.f.o"
+  "/usr/share/cmake-3.10/Modules/FortranCInterface/mymodule.f90" "/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/CMakeFiles/myfort.dir/mymodule.f90.o"
+  "/usr/share/cmake-3.10/Modules/FortranCInterface/mysub.f" "/home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/FortranCInterface/CMakeFiles/myfort.dir/mysub.f.o"
   )
 set(CMAKE_Fortran_COMPILER_ID "GNU")
 

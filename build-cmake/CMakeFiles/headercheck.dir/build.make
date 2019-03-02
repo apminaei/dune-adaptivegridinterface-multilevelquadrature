@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad
+CMAKE_SOURCE_DIR = /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake
+CMAKE_BINARY_DIR = /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake
 
 # Utility rule file for headercheck.
 
@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-
 include CMakeFiles/headercheck.dir/progress.make
 
 CMakeFiles/headercheck:
-	/usr/bin/cmake -DENABLE_HEADERCHECK= -P /usr/local/share/dune/cmake/scripts/FinalizeHeadercheck.cmake
+	/usr/bin/cmake -P /usr/local/share/dune/cmake/scripts/FinalizeHeadercheck.cmake -DENABLE_HEADERCHECK=
 
 headercheck: CMakeFiles/headercheck
 headercheck: CMakeFiles/headercheck.dir/build.make
@@ -71,6 +71,6 @@ CMakeFiles/headercheck.dir/clean:
 .PHONY : CMakeFiles/headercheck.dir/clean
 
 CMakeFiles/headercheck.dir/depend:
-	cd /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake /home/amir/Dune-projects/dune-howto-adaptive-grid-multilevel-quad/build-cmake/CMakeFiles/headercheck.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake /home/amir/Dune-projects/dune-adaptivegridinterface-multilevelquadrature/build-cmake/CMakeFiles/headercheck.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/headercheck.dir/depend
 

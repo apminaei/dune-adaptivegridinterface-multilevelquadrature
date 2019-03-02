@@ -38,7 +38,7 @@ int main(int argc, char** argv)
     // Given Tolerance
       const double Tol = 1E-3;
     // create grid
-      const int dim = 2;
+      const int dim = 3;
       using Grid = Dune::UGGrid<dim>;
       auto gridPointer = createCubeGrid<Grid>();
       Grid& grid = *gridPointer;

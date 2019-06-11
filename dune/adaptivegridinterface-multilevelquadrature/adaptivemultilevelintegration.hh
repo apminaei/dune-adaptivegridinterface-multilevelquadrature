@@ -32,7 +32,7 @@ void adaptiveintegration( Grid & grid, const Functor & f , const double tol)
     // loop over grid sequence
     double oldvalue = 10.0 ;
     int count = 0 ;
-    for ( int k = 0; k < 10; k++)
+    for ( int k = 0; k < 2; k++)
     {
         // compute integral on current mesh
         double value =0;

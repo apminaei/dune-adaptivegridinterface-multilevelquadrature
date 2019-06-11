@@ -36,11 +36,11 @@ int main(int argc, char** argv)
    
 
     // Given Tolerance
-      const double Tol = 1E-4;
+      const double Tol = 1E-3;
     // create grid
       const int dim = 2;
       using Grid = Dune::UGGrid<dim>;
-      auto gridPointer = createCubeGrid<Grid>();
+      auto gridPointer = createSimplexGrid<Grid>();
       Grid& grid = *gridPointer;
 
       const int d = Grid::dimension;
